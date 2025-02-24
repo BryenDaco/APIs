@@ -1,5 +1,4 @@
-{
-    "youtube_account": [
+{[
         {
             "code": ":bsbs:",
             "img": "https://yt3.googleusercontent.com/8pNcoC8XKhmQRL9xWfskKZ_5MKaoOBOE-mSlRP9M7dIYQmbKkhqYWBKwwV99pmMqFw2aPYuQUg=w48-h48-c-k-nd"
@@ -471,9 +470,7 @@
         {
             "code": ":shelterin:",
             "img": "https://yt3.ggpht.com/gjC5x98J4BoVSEPfFJaoLtc4tSBGSEdIlfL2FV4iJG9uGNykDP9oJC_QxAuBTJy6dakPxVeC"
-        }
-    ],
-    "kick_account": [
+        },
         {
             "code": "[emote:1730752:emojiAngel]",
             "img": "https://files.kick.com/emotes/1730752/fullsize"
@@ -966,5 +963,4 @@
             "code": "[emote:39286:YOUTried]",
             "img": "https://files.kick.com/emotes/39286/fullsize"
         }
-    ]
-}
+]}
