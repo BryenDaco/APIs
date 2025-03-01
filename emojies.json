@@ -1,970 +1,121 @@
 {
-    "youtube_account": [
-        {
-            "code": ":bsbs:",
-            "img": "https://yt3.googleusercontent.com/8pNcoC8XKhmQRL9xWfskKZ_5MKaoOBOE-mSlRP9M7dIYQmbKkhqYWBKwwV99pmMqFw2aPYuQUg=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":ammoeka:",
-            "img": "https://yt3.googleusercontent.com/Tnkcmti6ldha2aqu1cn0AKJSwKIW5vfQzz4X9oT5a0v0kN14MW3XJtN5O2AHqk-soHbTXe5UbQ=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":Finthechat:",
-            "img": "https://yt3.googleusercontent.com/Eh6pvYpKJG72yyoHQyu9t0vTNZPXCm5zTwC6f9MbDVu72kb97073r7WWNFkOcVP8iQI8l-G16A=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":catlaugh:",
-            "img": "https://yt3.googleusercontent.com/ZGo453R_O7YYV9VNBKDFtw2WK1GzI0IMYH-z3n-ltZfETZQCVSJJG3oEpwkDxtDTQEgJ4liGGQ=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":nerd:",
-            "img": "https://yt3.googleusercontent.com/zGQwbOyJW4tGmdC8hccpcg3R7yDaVrUbeDkqdU3D1xArntjHr_HgQOilQEp7gitOAeO9nUMoag=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":sonicshock:",
-            "img": "https://yt3.googleusercontent.com/7hQmnI_NOA-fFOW0wO5L-HAZsXfpBGiYfs8W6h5kDOAUkCH2yDn3rlsJ2KT4FWtPsTSC7t5k=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":shocked:",
-            "img": "https://yt3.googleusercontent.com/cqK1_17io2q9rz-CNh-yO1wwULaynsT5K6Q2syaZAjzsgniogeQVyLeZy7XBrCphOj-ScThl=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":nope:",
-            "img": "https://yt3.googleusercontent.com/QwGuCvFXTFjTuptPYK1LvVIj6SVgFCJ81YmPTo1RbAhgKQg-DcElhd0uGlu66JDl5_g35R57Cw=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":yup:",
-            "img": "https://yt3.googleusercontent.com/N6uRcAHS2LgrfXUYrf-3NK48urDWyf4lAd7jJSoQAY1QLEnD-1KEo_JQ9JOcKLpJbn_cUBgPao4=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":sus:",
-            "img": "https://yt3.googleusercontent.com/yARmXDVjlLz5wMEMh8_UlqlkrBELoilpOghx4mScfDBeAXYep2PrkHdstpai05eUBBt--QQ9dQ=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":nervous:",
-            "img": "https://yt3.googleusercontent.com/iOqLIkY5icG1G39o0rBidY8dY99u6nLAhLwKtRrJyxp_NzfcOgH1jFTDPl4sjs4Ut_EGAbb070o=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":pepelaugh:",
-            "img": "https://yt3.googleusercontent.com/20Kp43gmefeJJHqEoNKx0gNFFRfFbKNnCuE4O0MrzTh7xrxp1t6EodFs00wpUV4qzGFhTo5eaA=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":sad:",
-            "img": "https://yt3.googleusercontent.com/Q0p5IyKaY0zbzKYWFcYFgLeb6uuvHkqogBJv3dUnpZmp-fpZJDWUilqkX42MQxUvPGS2Ky6_=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":gigachad:",
-            "img": "https://yt3.googleusercontent.com/XWhmy5sOIjRctnEt-MJJMbmOgGS6ZRCnOVFy3q_P51WCmvvfzrGzVwcbeV32ZfV_rwdFnT1_JQ=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":hmmm:",
-            "img": "https://yt3.googleusercontent.com/6ZMyKgtPGwAFFpj5VEZGZvB3tmcGF_7MML9VQTLl6S0nMpcEkX8NkbqjqAQy1THwLGdiX64ZAQ=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":bro:",
-            "img": "https://yt3.googleusercontent.com/GAVg7aPrKMLMm8rgIInaTvK4FDPlCnmS9fpwmOjE3ZLJ3YAVnxfBuXrAlGU7kGxdIRP6y1O8NQ=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":lol:",
-            "img": "https://yt3.googleusercontent.com/yiBbfvxruGt000Nxd-p8NwzYJTOT5VlShrRQm46wxT3rYuKwOXu65GHmsjmwXzDSjjz4GwD1=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":amazed:",
-            "img": "https://yt3.googleusercontent.com/qzCsPtbda4RJuStqPda8VcykBb4NYGSsoH9UCL94dPPbm8PXtdXhXtzPlpiTsAMSQTYlcTdFWLI=w48-h48-c-k-nd"
-        },
-        {
-            "code": ":hand-pink-waving:",
-            "img": "https://yt3.ggpht.com/KOxdr_z3A5h1Gb7kqnxqOCnbZrBmxI2B_tRQ453BhTWUhYAlpg5ZP8IKEBkcvRoY8grY91Q"
-        },
-        {
-            "code": ":face-blue-smiling:",
-            "img": "https://yt3.ggpht.com/cktIaPxFwnrPwn-alHvnvedHLUJwbHi8HCK3AgbHpphrMAW99qw0bDfxuZagSY5ieE9BBrA"
-        },
-        {
-            "code": ":face-red-droopy-eyes:",
-            "img": "https://yt3.ggpht.com/oih9s26MOYPWC_uL6tgaeOlXSGBv8MMoDrWzBt-80nEiVSL9nClgnuzUAKqkU9_TWygF6CI"
-        },
-        {
-            "code": ":face-purple-crying:",
-            "img": "https://yt3.ggpht.com/g6_km98AfdHbN43gvEuNdZ2I07MmzVpArLwEvNBwwPqpZYzszqhRzU_DXALl11TchX5_xFE"
-        },
-        {
-            "code": ":text-green-game-over:",
-            "img": "https://yt3.ggpht.com/cr36FHhSiMAJUSpO9XzjbOgxhtrdJNTVJUlMJeOOfLOFzKleAKT2SEkZwbqihBqfTXYCIg"
-        },
-        {
-            "code": ":person-turqouise-waving:",
-            "img": "https://yt3.ggpht.com/uNSzQ2M106OC1L3VGzrOsGNjopboOv-m1bnZKFGuh0DxcceSpYHhYbuyggcgnYyaF3o-AQ"
-        },
-        {
-            "code": ":face-green-smiling:",
-            "img": "https://yt3.ggpht.com/G061SAfXg2bmG1ZXbJsJzQJpN8qEf_W3f5cb5nwzBYIV58IpPf6H90lElDl85iti3HgoL3o"
-        },
-        {
-            "code": ":face-orange-frowning:",
-            "img": "https://yt3.ggpht.com/Ar8jaEIxzfiyYmB7ejDOHba2kUMdR37MHn_R39mtxqO5CD4aYGvjDFL22DW_Cka6LKzhGDk"
-        },
-        {
-            "code": ":eyes-purple-crying:",
-            "img": "https://yt3.ggpht.com/FrYgdeZPpvXs-6Mp305ZiimWJ0wV5bcVZctaUy80mnIdwe-P8HRGYAm0OyBtVx8EB9_Dxkc"
-        },
-        {
-            "code": ":face-fuchsia-wide-eyes:",
-            "img": "https://yt3.ggpht.com/zdcOC1SMmyXJOAddl9DYeEFN9YYcn5mHemJCdRFQMtDuS0V-IyE-5YjNUL1tduX1zs17tQ"
-        },
-        {
-            "code": ":cat-orange-whistling:",
-            "img": "https://yt3.ggpht.com/0ocqEmuhrKCK87_J21lBkvjW70wRGC32-Buwk6TP4352CgcNjL6ug8zcsel6JiPbE58xhq5g"
-        },
-        {
-            "code": ":face-blue-wide-eyes:",
-            "img": "https://yt3.ggpht.com/2Ht4KImoWDlCddiDQVuzSJwpEb59nZJ576ckfaMh57oqz2pUkkgVTXV8osqUOgFHZdUISJM"
-        },
-        {
-            "code": ":face-orange-raised-eyebrow:",
-            "img": "https://yt3.ggpht.com/JbCfmOgYI-mO17LPw8e_ycqbBGESL8AVP6i7ZsBOVLd3PEpgrfEuJ9rEGpP_unDcqgWSCg"
-        },
-        {
-            "code": ":face-fuchsia-tongue-out:",
-            "img": "https://yt3.ggpht.com/EURfJZi_heNulV3mfHzXBk8PIs9XmZ9lOOYi5za6wFMCGrps4i2BJX9j-H2gK6LIhW6h7sY"
-        },
-        {
-            "code": ":face-orange-biting-nails:",
-            "img": "https://yt3.ggpht.com/HmsXEgqUogkQOnL5LP_FdPit9Z909RJxby-uYcPxBLNhaPyqPTcGwvGaGPk2hzB_cC0hs_pV"
-        },
-        {
-            "code": ":face-red-heart-shape:",
-            "img": "https://yt3.ggpht.com/I0Mem9dU_IZ4a9cQPzR0pUJ8bH-882Eg0sDQjBmPcHA6Oq0uXOZcsjPvPbtormx91Ha2eRA"
-        },
-        {
-            "code": ":face-fuchsia-poop-shape:",
-            "img": "https://yt3.ggpht.com/_xlyzvSimqMzhdhODyqUBLXIGA6F_d5en2bq-AIfc6fc3M7tw2jucuXRIo5igcW3g9VVe3A"
-        },
-        {
-            "code": ":face-purple-wide-eyes:",
-            "img": "https://yt3.ggpht.com/5RDrtjmzRQKuVYE_FKPUHiGh7TNtX5eSNe6XzcSytMsHirXYKunxpyAsVacTFMg0jmUGhQ"
-        },
-        {
-            "code": ":glasses-purple-yellow-diamond:",
-            "img": "https://yt3.ggpht.com/EnDBiuksboKsLkxp_CqMWlTcZtlL77QBkbjz_rLedMSDzrHmy_6k44YWFy2rk4I0LG6K2KI"
-        },
-        {
-            "code": ":face-pink-tears:",
-            "img": "https://yt3.ggpht.com/RL5QHCNcO_Mc98SxFEblXZt9FNoh3bIgsjm0Kj8kmeQJWMeTu7JX_NpICJ6KKwKT0oVHhAA"
-        },
-        {
-            "code": ":body-blue-raised-arms:",
-            "img": "https://yt3.ggpht.com/2Jds3I9UKOfgjid97b_nlDU4X2t5MgjTof8yseCp7M-6ZhOhRkPGSPfYwmE9HjCibsfA1Uzo"
-        },
-        {
-            "code": ":hand-orange-covering-eyes:",
-            "img": "https://yt3.ggpht.com/y8ppa6GcJoRUdw7GwmjDmTAnSkeIkUptZMVQuFmFaTlF_CVIL7YP7hH7hd0TJbd8p9w67IM"
-        },
-        {
-            "code": ":trophy-yellow-smiling:",
-            "img": "https://yt3.ggpht.com/7tf3A_D48gBg9g2N0Rm6HWs2aqzshHU4CuVubTXVxh1BP7YDBRC6pLBoC-ibvr-zCl_Lgg"
-        },
-        {
-            "code": ":eyes-pink-heart-shape:",
-            "img": "https://yt3.ggpht.com/5vzlCQfQQdzsG7nlQzD8eNjtyLlnATwFwGvrMpC8dgLcosNhWLXu8NN9qIS3HZjJYd872dM"
-        },
-        {
-            "code": ":face-turquoise-covering-eyes:",
-            "img": "https://yt3.ggpht.com/H2HNPRO8f4SjMmPNh5fl10okSETW7dLTZtuE4jh9D6pSmaUiLfoZJ2oiY-qWU3Owfm1IsXg"
-        },
-        {
-            "code": ":hand-green-crystal-ball:",
-            "img": "https://yt3.ggpht.com/qZfJrWDEmR03FIak7PMNRNpMjNsCnOzD9PqK8mOpAp4Kacn_uXRNJNb99tE_1uyEbvgJReF2"
-        },
-        {
-            "code": ":face-turquoise-drinking-coffee:",
-            "img": "https://yt3.ggpht.com/myqoI1MgFUXQr5fuWTC9mz0BCfgf3F8GSDp06o1G7w6pTz48lwARjdG8vj0vMxADvbwA1dA"
-        },
-        {
-            "code": ":body-green-covering-eyes:",
-            "img": "https://yt3.ggpht.com/UR8ydcU3gz360bzDsprB6d1klFSQyVzgn-Fkgu13dIKPj3iS8OtG1bhBUXPdj9pMwtM00ro"
-        },
-        {
-            "code": ":goat-turquoise-white-horns:",
-            "img": "https://yt3.ggpht.com/jMnX4lu5GnjBRgiPtX5FwFmEyKTlWFrr5voz-Auko35oP0t3-zhPxR3PQMYa-7KhDeDtrv4"
-        },
-        {
-            "code": ":hand-purple-blue-peace:",
-            "img": "https://yt3.ggpht.com/-sC8wj6pThd7FNdslEoJlG4nB9SIbrJG3CRGh7-bNV0RVfcrJuwiWHoUZ6UmcVs7sQjxTg4"
-        },
-        {
-            "code": ":face-blue-question-mark:",
-            "img": "https://yt3.ggpht.com/Wx4PMqTwG3f4gtR7J9Go1s8uozzByGWLSXHzrh3166ixaYRinkH_F05lslfsRUsKRvHXrDk"
-        },
-        {
-            "code": ":face-blue-covering-eyes:",
-            "img": "https://yt3.ggpht.com/kj3IgbbR6u-mifDkBNWVcdOXC-ut-tiFbDpBMGVeW79c2c54n5vI-HNYCOC6XZ9Bzgupc10"
-        },
-        {
-            "code": ":face-purple-smiling-fangs:",
-            "img": "https://yt3.ggpht.com/k1vqi6xoHakGUfa0XuZYWHOv035807ARP-ZLwFmA-_NxENJMxsisb-kUgkSr96fj5baBOZE"
-        },
-        {
-            "code": ":face-purple-sweating:",
-            "img": "https://yt3.ggpht.com/tRnrCQtEKlTM9YLPo0vaxq9mDvlT0mhDld2KI7e_nDRbhta3ULKSoPVHZ1-bNlzQRANmH90"
-        },
-        {
-            "code": ":face-purple-smiling-tears:",
-            "img": "https://yt3.ggpht.com/MJV1k3J5s0hcUfuo78Y6MKi-apDY5NVDjO9Q7hL8fU4i0cIBgU-cU4rq4sHessJuvuGpDOjJ"
-        },
-        {
-            "code": ":face-blue-star-eyes:",
-            "img": "https://yt3.ggpht.com/m_ANavMhp6cQ1HzX0HCTgp_er_yO2UA28JPbi-0HElQgnQ4_q5RUhgwueTpH-st8L3MyTA"
-        },
-        {
-            "code": ":face-blue-heart-eyes:",
-            "img": "https://yt3.ggpht.com/M9tzKd64_r3hvgpTSgca7K3eBlGuyiqdzzhYPp7ullFAHMgeFoNLA0uQ1dGxj3fXgfcHW4w"
-        },
-        {
-            "code": ":face-blue-three-eyes:",
-            "img": "https://yt3.ggpht.com/nSQHitVplLe5uZC404dyAwv1f58S3PN-U_799fvFzq-6b3bv-MwENO-Zs1qQI4oEXCbOJg"
-        },
-        {
-            "code": ":face-blue-droopy-eyes:",
-            "img": "https://yt3.ggpht.com/hGPqMUCiXGt6zuX4dHy0HRZtQ-vZmOY8FM7NOHrJTta3UEJksBKjOcoE6ZUAW9sz7gIF_nk"
-        },
-        {
-            "code": ":planet-orange-purple-ring:",
-            "img": "https://yt3.ggpht.com/xkaLigm3P4_1g4X1JOtkymcC7snuJu_C5YwIFAyQlAXK093X0IUjaSTinMTLKeRZ6280jXg"
-        },
-        {
-            "code": ":face-turquoise-speaker-shape:",
-            "img": "https://yt3.ggpht.com/WTFFqm70DuMxSC6ezQ5Zs45GaWD85Xwrd9Sullxt54vErPUKb_o0NJQ4kna5m7rvjbRMgr3A"
-        },
-        {
-            "code": ":octopus-red-waving:",
-            "img": "https://yt3.ggpht.com/L9Wo5tLT_lRQX36iZO_fJqLJR4U74J77tJ6Dg-QmPmSC_zhVQ-NodMRc9T0ozwvRXRaT43o"
-        },
-        {
-            "code": ":pillow-turquoise-hot-chocolate:",
-            "img": "https://yt3.ggpht.com/cAR4cehRxbn6dPbxKIb-7ShDdWnMxbaBqy2CXzBW4aRL3IqXs3rxG0UdS7IU71OEU7LSd20q"
-        },
-        {
-            "code": ":hourglass-purple-sand-orange:",
-            "img": "https://yt3.ggpht.com/MFDLjasPt5cuSM_tK5Fnjaz_k08lKHdX_Mf7JkI6awaHriC3rGL7J_wHxyG6PPhJ8CJ6vsQ"
-        },
-        {
-            "code": ":fish-orange-wide-eyes:",
-            "img": "https://yt3.ggpht.com/iQLKgKs7qL3091VHgVgpaezc62uPewy50G_DoI0dMtVGmQEX5pflZrUxWfYGmRfzfUOOgJs"
-        },
-        {
-            "code": ":popcorn-yellow-striped-smile:",
-            "img": "https://yt3.ggpht.com/TW_GktV5uVYviPDtkCRCKRDrGlUc3sJ5OHO81uqdMaaHrIQ5-sXXwJfDI3FKPyv4xtGpOlg"
-        },
-        {
-            "code": ":penguin-blue-waving-tear:",
-            "img": "https://yt3.ggpht.com/p2u7dcfZau4_bMOMtN7Ma8mjHX_43jOjDwITf4U9adT44I-y-PT7ddwPKkfbW6Wx02BTpNoC"
-        },
-        {
-            "code": ":clock-turquoise-looking-up:",
-            "img": "https://yt3.ggpht.com/tDnDkDZykkJTrsWEJPlRF30rmbek2wcDcAIymruOvSLTsUFIZHoAiYTRe9OtO-80lDfFGvo"
-        },
-        {
-            "code": ":face-red-smiling-live:",
-            "img": "https://yt3.ggpht.com/14Pb--7rVcqnHvM7UlrYnV9Rm4J-uojX1B1kiXYvv1my-eyu77pIoPR5sH28-eNIFyLaQHs"
-        },
-        {
-            "code": ":hands-yellow-heart-red:",
-            "img": "https://yt3.ggpht.com/qWSu2zrgOKLKgt_E-XUP9e30aydT5aF3TnNjvfBL55cTu1clP8Eoh5exN3NDPEVPYmasmoA"
-        },
-        {
-            "code": ":volcano-green-lava-orange:",
-            "img": "https://yt3.ggpht.com/_IWOdMxapt6IBY5Cb6LFVkA3J77dGQ7P2fuvYYv1-ahigpVfBvkubOuGLSCyFJ7jvis-X8I"
-        },
-        {
-            "code": ":person-turquoise-waving-speech:",
-            "img": "https://yt3.ggpht.com/gafhCE49PH_9q-PuigZaDdU6zOKD6grfwEh1MM7fYVs7smAS_yhYCBipq8gEiW73E0apKTzi"
-        },
-        {
-            "code": ":face-orange-tv-shape:",
-            "img": "https://yt3.ggpht.com/EVK0ik6dL5mngojX9I9Juw4iFh053emP0wcUjZH0whC_LabPq-DZxN4Jg-tpMcEVfJ0QpcJ4"
-        },
-        {
-            "code": ":face-blue-spam-shape:",
-            "img": "https://yt3.ggpht.com/hpwvR5UgJtf0bGkUf8Rn-jTlD6DYZ8FPOFY7rhZZL-JHj_7OPDr7XUOesilRPxlf-aW42Zg"
-        },
-        {
-            "code": ":face-fuchsia-flower-shape:",
-            "img": "https://yt3.ggpht.com/o9kq4LQ0fE_x8yxj29ZeLFZiUFpHpL_k2OivHbjZbttzgQytU49Y8-VRhkOP18jgH1dQNSVz"
-        },
-        {
-            "code": ":person-blue-holding-pencil:",
-            "img": "https://yt3.ggpht.com/TKgph5IHIHL-A3fgkrGzmiNXzxJkibB4QWRcf_kcjIofhwcUK_pWGUFC4xPXoimmne3h8eQ"
-        },
-        {
-            "code": ":body-turquoise-yoga-pose:",
-            "img": "https://yt3.ggpht.com/GW3otW7CmWpuayb7Ddo0ux5c-OvmPZ2K3vaytJi8bHFjcn-ulT8vcHMNcqVqMp1j2lit2Vw"
-        },
-        {
-            "code": ":location-yellow-teal-bars:",
-            "img": "https://yt3.ggpht.com/YgeWJsRspSlAp3BIS5HMmwtpWtMi8DqLg9fH7DwUZaf5kG4yABfE1mObAvjCh0xKX_HoIR23"
-        },
-        {
-            "code": ":person-turquoise-writing-headphones:",
-            "img": "https://yt3.ggpht.com/DC4KrwzNkVxLZa2_KbKyjZTUyB9oIvH5JuEWAshsMv9Ctz4lEUVK0yX5PaMsTK3gGS-r9w"
-        },
-        {
-            "code": ":person-turquoise-wizard-wand:",
-            "img": "https://yt3.ggpht.com/OiZeNvmELg2PQKbT5UCS0xbmsGbqRBSbaRVSsKnRS9gvJPw7AzPp-3ysVffHFbSMqlWKeQ"
-        },
-        {
-            "code": ":person-blue-eating-spaghetti:",
-            "img": "https://yt3.ggpht.com/AXZ8POmCHoxXuBaRxX6-xlT5M-nJZmO1AeUNo0t4o7xxT2Da2oGy347sHpMM8shtUs7Xxh0"
-        },
-        {
-            "code": ":face-turquoise-music-note:",
-            "img": "https://yt3.ggpht.com/-K6oRITFKVU8V4FedrqXGkV_vTqUufVCQpBpyLK6w3chF4AS1kzT0JVfJxhtlfIAw5jrNco"
-        },
-        {
-            "code": ":person-pink-swaying-hair:",
-            "img": "https://yt3.ggpht.com/L8cwo8hEoVhB1k1TopQaeR7oPTn7Ypn5IOae5NACgQT0E9PNYkmuENzVqS7dk2bYRthNAkQ"
-        },
-        {
-            "code": ":person-blue-speaking-microphone:",
-            "img": "https://yt3.ggpht.com/FMaw3drKKGyc6dk3DvtHbkJ1Ki2uD0FLqSIiFDyuChc1lWcA9leahX3mCFMBIWviN2o8eyc"
-        },
-        {
-            "code": ":rocket-red-countdown-liftoff:",
-            "img": "https://yt3.ggpht.com/lQZFYAeWe5-SJ_fz6dCAFYz1MjBnEek8DvioGxhlj395UFTSSHqYAmfhJN2i0rz3fDD5DQ"
-        },
-        {
-            "code": ":face-purple-rain-drops:",
-            "img": "https://yt3.ggpht.com/woHW5Jl2RD0qxijnl_4vx4ZhP0Zp65D4Ve1DM_HrwJW-Kh6bQZoRjesGnEwjde8F4LynrQ"
-        },
-        {
-            "code": ":face-pink-drinking-tea:",
-            "img": "https://yt3.ggpht.com/WRLIgKpnClgYOZyAwnqP-Edrdxu6_N19qa8gsB9P_6snZJYIMu5YBJX8dlM81YG6H307KA"
-        },
-        {
-            "code": ":person-purple-stage-event:",
-            "img": "https://yt3.ggpht.com/YeVVscOyRcDJAhKo2bMwMz_B6127_7lojqafTZECTR9NSEunYO5zEi7R7RqxBD7LYLxfNnXe"
-        },
-        {
-            "code": ":face-purple-open-box:",
-            "img": "https://yt3.ggpht.com/7lJM2sLrozPtNLagPTcN0xlcStWpAuZEmO2f4Ej5kYgSp3woGdq3tWFrTH30S3mD2PyjlQ"
-        },
-        {
-            "code": ":person-yellow-podium-blue:",
-            "img": "https://yt3.ggpht.com/N28nFDm82F8kLPAa-jY_OySFsn3Ezs_2Bl5kdxC8Yxau5abkj_XZHYsS3uYKojs8qy8N-9w"
-        },
-        {
-            "code": ":baseball-white-cap-out:",
-            "img": "https://yt3.ggpht.com/8DaGaXfaBN0c-ZsZ-1WqPJ6H9TsJOlUUQQEoXvmdROphZE9vdRtN0867Gb2YZcm2x38E9Q"
-        },
-        {
-            "code": ":whistle-red-blow:",
-            "img": "https://yt3.ggpht.com/DBu1ZfPJTnX9S1RyKKdBY-X_CEmj7eF6Uzl71j5jVBz5y4k9JcKnoiFtImAbeu4u8M2X8tU"
-        },
-        {
-            "code": ":person-turquoise-crowd-surf:",
-            "img": "https://yt3.ggpht.com/Q0wFvHZ5h54xGSTo-JeGst6InRU3yR6NdBRoyowaqGY66LPzdcrV2t-wBN21kBIdb2TeNA"
-        },
-        {
-            "code": ":finger-red-number-one:",
-            "img": "https://yt3.ggpht.com/Hbk0wxBzPTBCDvD_y4qdcHL5_uu7SeOnaT2B7gl9GLB4u8Ecm9OaXCGSMMUBFeNGl5Q3fHJ2"
-        },
-        {
-            "code": ":text-yellow-goal:",
-            "img": "https://yt3.ggpht.com/tnHp8rHjXecGbGrWNcs7xss_aVReaYE6H-QWRCXYg_aaYszHXnbP_pVADnibUiimspLvgX0L"
-        },
-        {
-            "code": ":medal-yellow-first-red:",
-            "img": "https://yt3.ggpht.com/EEHiiIalCBKuWDPtNOjjvmEZ-KRkf5dlgmhe5rbLn8aZQl-pNz_paq5UjxNhCrI019TWOQ"
-        },
-        {
-            "code": ":person-blue-wheelchair-race:",
-            "img": "https://yt3.ggpht.com/ZepxPGk5TwzrKAP9LUkzmKmEkbaF5OttNyybwok6mJENw3p0lxDXkD1X2_rAwGcUM0L-D04"
-        },
-        {
-            "code": ":card-red-penalty:",
-            "img": "https://yt3.ggpht.com/uRDUMIeAHnNsaIaShtRkQ6hO0vycbNH_BQT7i3PWetFJb09q88RTjxwzToBy9Cez20D7hA"
-        },
-        {
-            "code": ":stopwatch-blue-hand-timer:",
-            "img": "https://yt3.ggpht.com/DCvefDAiskRfACgolTlvV1kMfiZVcG50UrmpnRrg3k0udFWG2Uo9zFMaJrJMSJYwcx6fMgk"
-        },
-        {
-            "code": ":yt:",
-            "img": "https://yt3.ggpht.com/IkpeJf1g9Lq0WNjvSa4XFq4LVNZ9IP5FKW8yywXb12djo1OGdJtziejNASITyq4L0itkMNw"
-        },
-        {
-            "code": ":oops:",
-            "img": "https://yt3.ggpht.com/PFoVIqIiFRS3aFf5-bt_tTC0WrDm_ylhF4BKKwgqAASNb7hVgx_adFP-XVhFiJLXdRK0EQ"
-        },
-        {
-            "code": ":buffering:",
-            "img": "https://yt3.ggpht.com/5gfMEfdqO9CiLwhN9Mq7VI6--T2QFp8AXNNy5Fo7btfY6fRKkThWq35SCZ6SPMVCjg-sUA"
-        },
-        {
-            "code": ":stayhome:",
-            "img": "https://yt3.ggpht.com/_1FGHypiub51kuTiNBX1a0H3NyFih3TnHX7bHU06j_ajTzT0OQfMLl9RI1SiQoxtgA2Grg"
-        },
-        {
-            "code": ":dothefive:",
-            "img": "https://yt3.ggpht.com/-nM0DOd49969h3GNcl705Ti1fIf1ZG_E3JxcOUVV-qPfCW6jY8xZ98caNLHkVSGRTSEb7Y9y"
-        },
-        {
-            "code": ":elbowbump:",
-            "img": "https://yt3.ggpht.com/2ou58X5XuhTrxjtIM2wew1f-HKRhN_T5SILQgHE-WD9dySzzJdGwL4R1gpKiJXcbtq6sjQ"
-        },
-        {
-            "code": ":goodvibes:",
-            "img": "https://yt3.ggpht.com/2CvFOwgKpL29mW_C51XvaWa7Eixtv-3tD1XvZa1_WemaDDL2AqevKbTZ1rdV0OWcnOZRag"
-        },
-        {
-            "code": ":thanksdoc:",
-            "img": "https://yt3.ggpht.com/bUnO_VwXW2hDf-Da8D64KKv6nBJDYUBuo13RrOg141g2da8pi9-KClJYlUDuqIwyPBfvOO8"
-        },
-        {
-            "code": ":videocall:",
-            "img": "https://yt3.ggpht.com/k5v_oxUzRWmTOXP0V6WJver6xdS1lyHMPcMTfxn23Md6rmixoR5RZUusFbZi1uZwjF__pv4"
-        },
-        {
-            "code": ":virtualhug:",
-            "img": "https://yt3.ggpht.com/U1TjOZlqtS58NGqQhE8VWDptPSrmJNkrbVRp_8jI4f84QqIGflq2Ibu7YmuOg5MmVYnpevc"
-        },
-        {
-            "code": ":yougotthis:",
-            "img": "https://yt3.ggpht.com/s3uOe4lUx3iPIt1h901SlMp_sKCTp3oOVj1JV8izBw_vDVLxFqk5dq-3NX-nK_gnUwVEXld3"
-        },
-        {
-            "code": ":sanitizer:",
-            "img": "https://yt3.ggpht.com/EJ_8vc4Gl-WxCWBurHwwWROAHrPzxgePodoNfkRY1U_I8L1O2zlqf7-wfUtTeyzq2qHNnocZ"
-        },
-        {
-            "code": ":takeout:",
-            "img": "https://yt3.ggpht.com/FizHI5IYMoNql9XeP7TV3E0ffOaNKTUSXbjtJe90e1OUODJfZbWU37VqBbTh-vpyFHlFIS0"
-        },
-        {
-            "code": ":hydrate:",
-            "img": "https://yt3.ggpht.com/tpgZgmhX8snKniye36mnrDVfTnlc44EK92EPeZ0m9M2EPizn1vKEGJzNYdp7KQy6iNZlYDc1"
-        },
-        {
-            "code": ":chillwcat:",
-            "img": "https://yt3.ggpht.com/y03dFcPc1B7CO20zgQYzhcRPka5Bhs6iSg57MaxJdhaLidFvvXBLf_i4_SHG7zJ_2VpBMNs"
-        },
-        {
-            "code": ":chillwdog:",
-            "img": "https://yt3.ggpht.com/Ir9mDxzUi0mbqyYdJ3N9Lq7bN5Xdt0Q7fEYFngN3GYAcJT_tccH1as1PKmInnpt2cbWOam4"
-        },
-        {
-            "code": ":elbowcough:",
-            "img": "https://yt3.ggpht.com/DTR9bZd1HOqpRJyz9TKiLb0cqe5Hb84Yi_79A6LWlN1tY-5kXqLDXRmtYVKE9rcqzEghmw"
-        },
-        {
-            "code": ":learning:",
-            "img": "https://yt3.ggpht.com/ZuBuz8GAQ6IEcQc7CoJL8IEBTYbXEvzhBeqy1AiytmhuAT0VHjpXEjd-A5GfR4zDin1L53Q"
-        },
-        {
-            "code": ":washhands:",
-            "img": "https://yt3.ggpht.com/qXUeUW0KpKBc9Z3AqUqr_0B7HbW1unAv4qmt7-LJGUK_gsFBIaHISWJNt4n3yvmAnQNZHE-u"
-        },
-        {
-            "code": ":socialdist:",
-            "img": "https://yt3.ggpht.com/igBNi55-TACUi1xQkqMAor-IEXmt8He56K7pDTG5XoTsbM-rVswNzUfC5iwnfrpunWihrg"
-        },
-        {
-            "code": ":shelterin:",
-            "img": "https://yt3.ggpht.com/gjC5x98J4BoVSEPfFJaoLtc4tSBGSEdIlfL2FV4iJG9uGNykDP9oJC_QxAuBTJy6dakPxVeC"
-        }
-    ],
-    "kick_account": [
-        {
-            "code": "[emote:1730752:emojiAngel]",
-            "img": "https://files.kick.com/emotes/1730752/fullsize"
-        },
-        {
-            "code": "[emote:1730753:emojiAngry]",
-            "img": "https://files.kick.com/emotes/1730753/fullsize"
-        },
-        {
-            "code": "[emote:1579033:emojiAstonished]",
-            "img": "https://files.kick.com/emotes/1579033/fullsize"
-        },
-        {
-            "code": "[emote:1730754:emojiAwake]",
-            "img": "https://files.kick.com/emotes/1730754/fullsize"
-        },
-        {
-            "code": "[emote:1579036:emojiBlowKiss]",
-            "img": "https://files.kick.com/emotes/1579036/fullsize"
-        },
-        {
-            "code": "[emote:1730755:emojiBubbly]",
-            "img": "https://files.kick.com/emotes/1730755/fullsize"
-        },
-        {
-            "code": "[emote:1730756:emojiCheerful]",
-            "img": "https://files.kick.com/emotes/1730756/fullsize"
-        },
-        {
-            "code": "[emote:1730758:emojiClown]",
-            "img": "https://files.kick.com/emotes/1730758/fullsize"
-        },
-        {
-            "code": "[emote:1730759:emojiCool]",
-            "img": "https://files.kick.com/emotes/1730759/fullsize"
-        },
-        {
-            "code": "[emote:1730760:emojiCrave]",
-            "img": "https://files.kick.com/emotes/1730760/fullsize"
-        },
-        {
-            "code": "[emote:1730761:emojiCry]",
-            "img": "https://files.kick.com/emotes/1730761/fullsize"
-        },
-        {
-            "code": "[emote:1579040:emojiCrying]",
-            "img": "https://files.kick.com/emotes/1579040/fullsize"
-        },
-        {
-            "code": "[emote:1730762:emojiCurious]",
-            "img": "https://files.kick.com/emotes/1730762/fullsize"
-        },
-        {
-            "code": "[emote:1730765:emojiCute]",
-            "img": "https://files.kick.com/emotes/1730765/fullsize"
-        },
-        {
-            "code": "[emote:1730767:emojiDead]",
-            "img": "https://files.kick.com/emotes/1730767/fullsize"
-        },
-        {
-            "code": "[emote:1730768:emojiDevil]",
-            "img": "https://files.kick.com/emotes/1730768/fullsize"
-        },
-        {
-            "code": "[emote:1579041:emojiDisappoint]",
-            "img": "https://files.kick.com/emotes/1579041/fullsize"
-        },
-        {
-            "code": "[emote:1579042:emojiDisguise]",
-            "img": "https://files.kick.com/emotes/1579042/fullsize"
-        },
-        {
-            "code": "[emote:1730769:emojiDJ]",
-            "img": "https://files.kick.com/emotes/1730769/fullsize"
-        },
-        {
-            "code": "[emote:1730770:emojiDown]",
-            "img": "https://files.kick.com/emotes/1730770/fullsize"
-        },
-        {
-            "code": "[emote:1579044:emojiEnraged]",
-            "img": "https://files.kick.com/emotes/1579044/fullsize"
-        },
-        {
-            "code": "[emote:1579045:emojiExcited]",
-            "img": "https://files.kick.com/emotes/1579045/fullsize"
-        },
-        {
-            "code": "[emote:1579054:emojiEyeRoll]",
-            "img": "https://files.kick.com/emotes/1579054/fullsize"
-        },
-        {
-            "code": "[emote:1730772:emojiFire]",
-            "img": "https://files.kick.com/emotes/1730772/fullsize"
-        },
-        {
-            "code": "[emote:1730774:emojiGamer]",
-            "img": "https://files.kick.com/emotes/1730774/fullsize"
-        },
-        {
-            "code": "[emote:1730775:emojiGlass]",
-            "img": "https://files.kick.com/emotes/1730775/fullsize"
-        },
-        {
-            "code": "[emote:1730776:emojiGoofy]",
-            "img": "https://files.kick.com/emotes/1730776/fullsize"
-        },
-        {
-            "code": "[emote:1730782:emojiGramps]",
-            "img": "https://files.kick.com/emotes/1730782/fullsize"
-        },
-        {
-            "code": "[emote:1579046:emojiGrimacing]",
-            "img": "https://files.kick.com/emotes/1579046/fullsize"
-        },
-        {
-            "code": "[emote:1730785:emojiGrin]",
-            "img": "https://files.kick.com/emotes/1730785/fullsize"
-        },
-        {
-            "code": "[emote:1730786:emojiGrumpy]",
-            "img": "https://files.kick.com/emotes/1730786/fullsize"
-        },
-        {
-            "code": "[emote:1730787:emojiHappy]",
-            "img": "https://files.kick.com/emotes/1730787/fullsize"
-        },
-        {
-            "code": "[emote:1579047:emojiHeartEyes]",
-            "img": "https://files.kick.com/emotes/1579047/fullsize"
-        },
-        {
-            "code": "[emote:1730788:emojiHmm]",
-            "img": "https://files.kick.com/emotes/1730788/fullsize"
-        },
-        {
-            "code": "[emote:1730789:emojiKing]",
-            "img": "https://files.kick.com/emotes/1730789/fullsize"
-        },
-        {
-            "code": "[emote:1730790:emojiKiss]",
-            "img": "https://files.kick.com/emotes/1730790/fullsize"
-        },
-        {
-            "code": "[emote:1730791:emojiLady]",
-            "img": "https://files.kick.com/emotes/1730791/fullsize"
-        },
-        {
-            "code": "[emote:1579050:emojiLaughing]",
-            "img": "https://files.kick.com/emotes/1579050/fullsize"
-        },
-        {
-            "code": "[emote:1730792:emojiLoading]",
-            "img": "https://files.kick.com/emotes/1730792/fullsize"
-        },
-        {
-            "code": "[emote:1730794:emojiLol]",
-            "img": "https://files.kick.com/emotes/1730794/fullsize"
-        },
-        {
-            "code": "[emote:1730796:emojiMan]",
-            "img": "https://files.kick.com/emotes/1730796/fullsize"
-        },
-        {
-            "code": "[emote:1579051:emojiMoneyEyes]",
-            "img": "https://files.kick.com/emotes/1579051/fullsize"
-        },
-        {
-            "code": "[emote:1730798:emojiNo]",
-            "img": "https://files.kick.com/emotes/1730798/fullsize"
-        },
-        {
-            "code": "[emote:1730799:emojiOof]",
-            "img": "https://files.kick.com/emotes/1730799/fullsize"
-        },
-        {
-            "code": "[emote:1730800:emojiOooh]",
-            "img": "https://files.kick.com/emotes/1730800/fullsize"
-        },
-        {
-            "code": "[emote:1730802:emojiOuch]",
-            "img": "https://files.kick.com/emotes/1730802/fullsize"
-        },
-        {
-            "code": "[emote:1579052:emojiPleading]",
-            "img": "https://files.kick.com/emotes/1579052/fullsize"
-        },
-        {
-            "code": "[emote:1730803:emojiRich]",
-            "img": "https://files.kick.com/emotes/1730803/fullsize"
-        },
-        {
-            "code": "[emote:1730807:emojiShocked]",
-            "img": "https://files.kick.com/emotes/1730807/fullsize"
-        },
-        {
-            "code": "[emote:1730825:emojiSleep]",
-            "img": "https://files.kick.com/emotes/1730825/fullsize"
-        },
-        {
-            "code": "[emote:1730827:emojiSmart]",
-            "img": "https://files.kick.com/emotes/1730827/fullsize"
-        },
-        {
-            "code": "[emote:1579055:emojiSmerking]",
-            "img": "https://files.kick.com/emotes/1579055/fullsize"
-        },
-        {
-            "code": "[emote:1579057:emojiSmiling]",
-            "img": "https://files.kick.com/emotes/1579057/fullsize"
-        },
-        {
-            "code": "[emote:1730829:emojiSorry]",
-            "img": "https://files.kick.com/emotes/1730829/fullsize"
-        },
-        {
-            "code": "[emote:1730830:emojiStare]",
-            "img": "https://files.kick.com/emotes/1730830/fullsize"
-        },
-        {
-            "code": "[emote:1579058:emojiStarEyes]",
-            "img": "https://files.kick.com/emotes/1579058/fullsize"
-        },
-        {
-            "code": "[emote:1579059:emojiSwearing]",
-            "img": "https://files.kick.com/emotes/1579059/fullsize"
-        },
-        {
-            "code": "[emote:1579061:emojiUnamused]",
-            "img": "https://files.kick.com/emotes/1579061/fullsize"
-        },
-        {
-            "code": "[emote:1579062:emojiVomiting]",
-            "img": "https://files.kick.com/emotes/1579062/fullsize"
-        },
-        {
-            "code": "[emote:1730831:emojiWink]",
-            "img": "https://files.kick.com/emotes/1730831/fullsize"
-        },
-        {
-            "code": "[emote:1579038:emojiXEyes]",
-            "img": "https://files.kick.com/emotes/1579038/fullsize"
-        },
-        {
-            "code": "[emote:1730834:emojiYay]",
-            "img": "https://files.kick.com/emotes/1730834/fullsize"
-        },
-        {
-            "code": "[emote:1730835:emojiYes]",
-            "img": "https://files.kick.com/emotes/1730835/fullsize"
-        },
-        {
-            "code": "[emote:37215:AYAYA]",
-            "img": "https://files.kick.com/emotes/37215/fullsize"
-        },
-        {
-            "code": "[emote:39250:BBooomer]",
-            "img": "https://files.kick.com/emotes/39250/fullsize"
-        },
-        {
-            "code": "[emote:39251:beeBobble]",
-            "img": "https://files.kick.com/emotes/39251/fullsize"
-        },
-        {
-            "code": "[emote:37217:Bwop]",
-            "img": "https://files.kick.com/emotes/37217/fullsize"
-        },
-        {
-            "code": "[emote:39254:CaptFail]",
-            "img": "https://files.kick.com/emotes/39254/fullsize"
-        },
-        {
-            "code": "[emote:37242:catblobDan]",
-            "img": "https://files.kick.com/emotes/37242/fullsize"
-        },
-        {
-            "code": "[emote:37218:Clap]",
-            "img": "https://files.kick.com/emotes/37218/fullsize"
-        },
-        {
-            "code": "[emote:39258:coffinPls]",
-            "img": "https://files.kick.com/emotes/39258/fullsize"
-        },
-        {
-            "code": "[emote:39260:DanceDance]",
-            "img": "https://files.kick.com/emotes/39260/fullsize"
-        },
-        {
-            "code": "[emote:39248:ditto]",
-            "img": "https://files.kick.com/emotes/39248/fullsize"
-        },
-        {
-            "code": "[emote:37220:DonoWall]",
-            "img": "https://files.kick.com/emotes/37220/fullsize"
-        },
-        {
-            "code": "[emote:39262:duckPlz]",
-            "img": "https://files.kick.com/emotes/39262/fullsize"
-        },
-        {
-            "code": "[emote:39265:EDMusiC]",
-            "img": "https://files.kick.com/emotes/39265/fullsize"
-        },
-        {
-            "code": "[emote:37221:EZ]",
-            "img": "https://files.kick.com/emotes/37221/fullsize"
-        },
-        {
-            "code": "[emote:39402:Flowie]",
-            "img": "https://files.kick.com/emotes/39402/fullsize"
-        },
-        {
-            "code": "[emote:37243:gachiGASM]",
-            "img": "https://files.kick.com/emotes/37243/fullsize"
-        },
-        {
-            "code": "[emote:37224:GIGACHAD]",
-            "img": "https://files.kick.com/emotes/37224/fullsize"
-        },
-        {
-            "code": "[emote:39267:HaHaaHaHaa]",
-            "img": "https://files.kick.com/emotes/39267/fullsize"
-        },
-        {
-            "code": "[emote:39268:HYPERCLAPH]",
-            "img": "https://files.kick.com/emotes/39268/fullsize"
-        },
-        {
-            "code": "[emote:305040:KappA]",
-            "img": "https://files.kick.com/emotes/305040/fullsize"
-        },
-        {
-            "code": "[emote:39256:KatKiss]",
-            "img": "https://files.kick.com/emotes/39256/fullsize"
-        },
-        {
-            "code": "[emote:39269:KEKByebye]",
-            "img": "https://files.kick.com/emotes/39269/fullsize"
-        },
-        {
-            "code": "[emote:37225:KEKLEO]",
-            "img": "https://files.kick.com/emotes/37225/fullsize"
-        },
-        {
-            "code": "[emote:37226:KEKW]",
-            "img": "https://files.kick.com/emotes/37226/fullsize"
-        },
-        {
-            "code": "[emote:55886:kickSadge]",
-            "img": "https://files.kick.com/emotes/55886/fullsize"
-        },
-        {
-            "code": "[emote:1730839:kickYuh]",
-            "img": "https://files.kick.com/emotes/1730839/fullsize"
-        },
-        {
-            "code": "[emote:1730840:kickYum]",
-            "img": "https://files.kick.com/emotes/1730840/fullsize"
-        },
-        {
-            "code": "[emote:39261:kkHuh]",
-            "img": "https://files.kick.com/emotes/39261/fullsize"
-        },
-        {
-            "code": "[emote:39272:LetMeIn]",
-            "img": "https://files.kick.com/emotes/39272/fullsize"
-        },
-        {
-            "code": "[emote:37227:LULW]",
-            "img": "https://files.kick.com/emotes/37227/fullsize"
-        },
-        {
-            "code": "[emote:43404:mericKat]",
-            "img": "https://files.kick.com/emotes/43404/fullsize"
-        },
-        {
-            "code": "[emote:37244:modCheck]",
-            "img": "https://files.kick.com/emotes/37244/fullsize"
-        },
-        {
-            "code": "[emote:39273:MuteD]",
-            "img": "https://files.kick.com/emotes/39273/fullsize"
-        },
-        {
-            "code": "[emote:37228:NODDERS]",
-            "img": "https://files.kick.com/emotes/37228/fullsize"
-        },
-        {
-            "code": "[emote:39274:NotLikEDuc]",
-            "img": "https://files.kick.com/emotes/39274/fullsize"
-        },
-        {
-            "code": "[emote:28631:NugTime]",
-            "img": "https://files.kick.com/emotes/28631/fullsize"
-        },
-        {
-            "code": "[emote:37229:OOOO]",
-            "img": "https://files.kick.com/emotes/37229/fullsize"
-        },
-        {
-            "code": "[emote:28632:OuttaPocke]",
-            "img": "https://files.kick.com/emotes/28632/fullsize"
-        },
-        {
-            "code": "[emote:37231:PatrickBoo]",
-            "img": "https://files.kick.com/emotes/37231/fullsize"
-        },
-        {
-            "code": "[emote:37232:PeepoClap]",
-            "img": "https://files.kick.com/emotes/37232/fullsize"
-        },
-        {
-            "code": "[emote:37245:peepoDJ]",
-            "img": "https://files.kick.com/emotes/37245/fullsize"
-        },
-        {
-            "code": "[emote:37246:peepoRiot]",
-            "img": "https://files.kick.com/emotes/37246/fullsize"
-        },
-        {
-            "code": "[emote:39275:peepoShyy]",
-            "img": "https://files.kick.com/emotes/39275/fullsize"
-        },
-        {
-            "code": "[emote:37233:PogU]",
-            "img": "https://files.kick.com/emotes/37233/fullsize"
-        },
-        {
-            "code": "[emote:37230:POLICE]",
-            "img": "https://files.kick.com/emotes/37230/fullsize"
-        },
-        {
-            "code": "[emote:39277:politeCat]",
-            "img": "https://files.kick.com/emotes/39277/fullsize"
-        },
-        {
-            "code": "[emote:39279:PPJedi]",
-            "img": "https://files.kick.com/emotes/39279/fullsize"
-        },
-        {
-            "code": "[emote:37234:Prayge]",
-            "img": "https://files.kick.com/emotes/37234/fullsize"
-        },
-        {
-            "code": "[emote:39281:RareCharm]",
-            "img": "https://files.kick.com/emotes/39281/fullsize"
-        },
-        {
-            "code": "[emote:37248:ratJAM]",
-            "img": "https://files.kick.com/emotes/37248/fullsize"
-        },
-        {
-            "code": "[emote:39282:saltyTrain]",
-            "img": "https://files.kick.com/emotes/39282/fullsize"
-        },
-        {
-            "code": "[emote:28633:SenpaiWhoo]",
-            "img": "https://files.kick.com/emotes/28633/fullsize"
-        },
-        {
-            "code": "[emote:37235:SUSSY]",
-            "img": "https://files.kick.com/emotes/37235/fullsize"
-        },
-        {
-            "code": "[emote:37236:ThisIsFine]",
-            "img": "https://files.kick.com/emotes/37236/fullsize"
-        },
-        {
-            "code": "[emote:39283:ToXiC]",
-            "img": "https://files.kick.com/emotes/39283/fullsize"
-        },
-        {
-            "code": "[emote:37237:TriKool]",
-            "img": "https://files.kick.com/emotes/37237/fullsize"
-        },
-        {
-            "code": "[emote:39284:vibePlz]",
-            "img": "https://files.kick.com/emotes/39284/fullsize"
-        },
-        {
-            "code": "[emote:37240:WeirdChamp]",
-            "img": "https://files.kick.com/emotes/37240/fullsize"
-        },
-        {
-            "code": "[emote:37239:WeSmart]",
-            "img": "https://files.kick.com/emotes/37239/fullsize"
-        },
-        {
-            "code": "[emote:39286:YOUTried]",
-            "img": "https://files.kick.com/emotes/39286/fullsize"
-        }
-    ]
+    ":bsbs:": "https://yt3.googleusercontent.com/8pNcoC8XKhmQRL9xWfskKZ_5MKaoOBOE-mSlRP9M7dIYQmbKkhqYWBKwwV99pmMqFw2aPYuQUg=w48-h48-c-k-nd",
+    ":ammoeka:": "https://yt3.googleusercontent.com/Tnkcmti6ldha2aqu1cn0AKJSwKIW5vfQzz4X9oT5a0v0kN14MW3XJtN5O2AHqk-soHbTXe5UbQ=w48-h48-c-k-nd",
+    ":Finthechat:": "https://yt3.googleusercontent.com/Eh6pvYpKJG72yyoHQyu9t0vTNZPXCm5zTwC6f9MbDVu72kb97073r7WWNFkOcVP8iQI8l-G16A=w48-h48-c-k-nd",
+    ":catlaugh:": "https://yt3.googleusercontent.com/ZGo453R_O7YYV9VNBKDFtw2WK1GzI0IMYH-z3n-ltZfETZQCVSJJG3oEpwkDxtDTQEgJ4liGGQ=w48-h48-c-k-nd",
+    ":nerd:": "https://yt3.googleusercontent.com/zGQwbOyJW4tGmdC8hccpcg3R7yDaVrUbeDkqdU3D1xArntjHr_HgQOilQEp7gitOAeO9nUMoag=w48-h48-c-k-nd",
+    ":sonicshock:": "https://yt3.googleusercontent.com/7hQmnI_NOA-fFOW0wO5L-HAZsXfpBGiYfs8W6h5kDOAUkCH2yDn3rlsJ2KT4FWtPsTSC7t5k=w48-h48-c-k-nd",
+    ":shocked:": "https://yt3.googleusercontent.com/cqK1_17io2q9rz-CNh-yO1wwULaynsT5K6Q2syaZAjzsgniogeQVyLeZy7XBrCphOj-ScThl=w48-h48-c-k-nd",
+    ":nope:": "https://yt3.googleusercontent.com/QwGuCvFXTFjTuptPYK1LvVIj6SVgFCJ81YmPTo1RbAhgKQg-DcElhd0uGlu66JDl5_g35R57Cw=w48-h48-c-k-nd",
+    ":yup:": "https://yt3.googleusercontent.com/N6uRcAHS2LgrfXUYrf-3NK48urDWyf4lAd7jJSoQAY1QLEnD-1KEo_JQ9JOcKLpJbn_cUBgPao4=w48-h48-c-k-nd",
+    ":sus:": "https://yt3.googleusercontent.com/yARmXDVjlLz5wMEMh8_UlqlkrBELoilpOghx4mScfDBeAXYep2PrkHdstpai05eUBBt--QQ9dQ=w48-h48-c-k-nd",
+    ":nervous:": "https://yt3.googleusercontent.com/iOqLIkY5icG1G39o0rBidY8dY99u6nLAhLwKtRrJyxp_NzfcOgH1jFTDPl4sjs4Ut_EGAbb070o=w48-h48-c-k-nd",
+    ":pepelaugh:": "https://yt3.googleusercontent.com/20Kp43gmefeJJHqEoNKx0gNFFRfFbKNnCuE4O0MrzTh7xrxp1t6EodFs00wpUV4qzGFhTo5eaA=w48-h48-c-k-nd",
+    ":sad:": "https://yt3.googleusercontent.com/Q0p5IyKaY0zbzKYWFcYFgLeb6uuvHkqogBJv3dUnpZmp-fpZJDWUilqkX42MQxUvPGS2Ky6_=w48-h48-c-k-nd",
+    ":gigachad:": "https://yt3.googleusercontent.com/XWhmy5sOIjRctnEt-MJJMbmOgGS6ZRCnOVFy3q_P51WCmvvfzrGzVwcbeV32ZfV_rwdFnT1_JQ=w48-h48-c-k-nd",
+    ":hmmm:": "https://yt3.googleusercontent.com/6ZMyKgtPGwAFFpj5VEZGZvB3tmcGF_7MML9VQTLl6S0nMpcEkX8NkbqjqAQy1THwLGdiX64ZAQ=w48-h48-c-k-nd",
+    ":bro:": "https://yt3.googleusercontent.com/GAVg7aPrKMLMm8rgIInaTvK4FDPlCnmS9fpwmOjE3ZLJ3YAVnxfBuXrAlGU7kGxdIRP6y1O8NQ=w48-h48-c-k-nd",
+    ":lol:": "https://yt3.googleusercontent.com/yiBbfvxruGt000Nxd-p8NwzYJTOT5VlShrRQm46wxT3rYuKwOXu65GHmsjmwXzDSjjz4GwD1=w48-h48-c-k-nd",
+    ":amazed:": "https://yt3.googleusercontent.com/qzCsPtbda4RJuStqPda8VcykBb4NYGSsoH9UCL94dPPbm8PXtdXhXtzPlpiTsAMSQTYlcTdFWLI=w48-h48-c-k-nd",
+    
+    ":hand-pink-waving:": "https://yt3.ggpht.com/KOxdr_z3A5h1Gb7kqnxqOCnbZrBmxI2B_tRQ453BhTWUhYAlpg5ZP8IKEBkcvRoY8grY91Q",
+    ":face-blue-smiling:": "https://yt3.ggpht.com/cktIaPxFwnrPwn-alHvnvedHLUJwbHi8HCK3AgbHpphrMAW99qw0bDfxuZagSY5ieE9BBrA",
+    ":face-red-droopy-eyes:": "https://yt3.ggpht.com/oih9s26MOYPWC_uL6tgaeOlXSGBv8MMoDrWzBt-80nEiVSL9nClgnuzUAKqkU9_TWygF6CI",
+    ":face-purple-crying:": "https://yt3.ggpht.com/g6_km98AfdHbN43gvEuNdZ2I07MmzVpArLwEvNBwwPqpZYzszqhRzU_DXALl11TchX5_xFE",
+    ":text-green-game-over:": "https://yt3.ggpht.com/cr36FHhSiMAJUSpO9XzjbOgxhtrdJNTVJUlMJeOOfLOFzKleAKT2SEkZwbqihBqfTXYCIg",
+    ":person-turqouise-waving:": "https://yt3.ggpht.com/uNSzQ2M106OC1L3VGzrOsGNjopboOv-m1bnZKFGuh0DxcceSpYHhYbuyggcgnYyaF3o-AQ",
+    ":face-green-smiling:": "https://yt3.ggpht.com/G061SAfXg2bmG1ZXbJsJzQJpN8qEf_W3f5cb5nwzBYIV58IpPf6H90lElDl85iti3HgoL3o",
+    ":face-orange-frowning:": "https://yt3.ggpht.com/Ar8jaEIxzfiyYmB7ejDOHba2kUMdR37MHn_R39mtxqO5CD4aYGvjDFL22DW_Cka6LKzhGDk",
+    ":eyes-purple-crying:": "https://yt3.ggpht.com/FrYgdeZPpvXs-6Mp305ZiimWJ0wV5bcVZctaUy80mnIdwe-P8HRGYAm0OyBtVx8EB9_Dxkc",
+    ":face-fuchsia-wide-eyes:": "https://yt3.ggpht.com/zdcOC1SMmyXJOAddl9DYeEFN9YYcn5mHemJCdRFQMtDuS0V-IyE-5YjNUL1tduX1zs17tQ",
+    ":cat-orange-whistling:": "https://yt3.ggpht.com/0ocqEmuhrKCK87_J21lBkvjW70wRGC32-Buwk6TP4352CgcNjL6ug8zcsel6JiPbE58xhq5g",
+    ":face-blue-wide-eyes:": "https://yt3.ggpht.com/2Ht4KImoWDlCddiDQVuzSJwpEb59nZJ576ckfaMh57oqz2pUkkgVTXV8osqUOgFHZdUISJM",
+    ":face-orange-raised-eyebrow:": "https://yt3.ggpht.com/JbCfmOgYI-mO17LPw8e_ycqbBGESL8AVP6i7ZsBOVLd3PEpgrfEuJ9rEGpP_unDcqgWSCg",
+    ":face-fuchsia-tongue-out:": "https://yt3.ggpht.com/EURfJZi_heNulV3mfHzXBk8PIs9XmZ9lOOYi5za6wFMCGrps4i2BJX9j-H2gK6LIhW6h7sY",
+    ":face-orange-biting-nails:": "https://yt3.ggpht.com/HmsXEgqUogkQOnL5LP_FdPit9Z909RJxby-uYcPxBLNhaPyqPTcGwvGaGPk2hzB_cC0hs_pV",
+    ":face-red-heart-shape:": "https://yt3.ggpht.com/I0Mem9dU_IZ4a9cQPzR0pUJ8bH-882Eg0sDQjBmPcHA6Oq0uXOZcsjPvPbtormx91Ha2eRA",
+    ":face-fuchsia-poop-shape:": "https://yt3.ggpht.com/_xlyzvSimqMzhdhODyqUBLXIGA6F_d5en2bq-AIfc6fc3M7tw2jucuXRIo5igcW3g9VVe3A",
+    ":face-purple-wide-eyes:": "https://yt3.ggpht.com/5RDrtjmzRQKuVYE_FKPUHiGh7TNtX5eSNe6XzcSytMsHirXYKunxpyAsVacTFMg0jmUGhQ",
+    ":glasses-purple-yellow-diamond:": "https://yt3.ggpht.com/EnDBiuksboKsLkxp_CqMWlTcZtlL77QBkbjz_rLedMSDzrHmy_6k44YWFy2rk4I0LG6K2KI",
+    ":face-pink-tears:": "https://yt3.ggpht.com/RL5QHCNcO_Mc98SxFEblXZt9FNoh3bIgsjm0Kj8kmeQJWMeTu7JX_NpICJ6KKwKT0oVHhAA",
+    ":body-blue-raised-arms:": "https://yt3.ggpht.com/2Jds3I9UKOfgjid97b_nlDU4X2t5MgjTof8yseCp7M-6ZhOhRkPGSPfYwmE9HjCibsfA1Uzo",
+    ":hand-orange-covering-eyes:": "https://yt3.ggpht.com/y8ppa6GcJoRUdw7GwmjDmTAnSkeIkUptZMVQuFmFaTlF_CVIL7YP7hH7hd0TJbd8p9w67IM",
+    ":trophy-yellow-smiling:": "https://yt3.ggpht.com/7tf3A_D48gBg9g2N0Rm6HWs2aqzshHU4CuVubTXVxh1BP7YDBRC6pLBoC-ibvr-zCl_Lgg",
+    ":eyes-pink-heart-shape:": "https://yt3.ggpht.com/5vzlCQfQQdzsG7nlQzD8eNjtyLlnATwFwGvrMpC8dgLcosNhWLXu8NN9qIS3HZjJYd872dM",
+    ":face-turquoise-covering-eyes:": "https://yt3.ggpht.com/H2HNPRO8f4SjMmPNh5fl10okSETW7dLTZtuE4jh9D6pSmaUiLfoZJ2oiY-qWU3Owfm1IsXg",
+    ":hand-green-crystal-ball:": "https://yt3.ggpht.com/qZfJrWDEmR03FIak7PMNRNpMjNsCnOzD9PqK8mOpAp4Kacn_uXRNJNb99tE_1uyEbvgJReF2",
+    ":face-turquoise-drinking-coffee:": "https://yt3.ggpht.com/myqoI1MgFUXQr5fuWTC9mz0BCfgf3F8GSDp06o1G7w6pTz48lwARjdG8vj0vMxADvbwA1dA",
+    ":body-green-covering-eyes:": "https://yt3.ggpht.com/UR8ydcU3gz360bzDsprB6d1klFSQyVzgn-Fkgu13dIKPj3iS8OtG1bhBUXPdj9pMwtM00ro",
+    ":goat-turquoise-white-horns:": "https://yt3.ggpht.com/jMnX4lu5GnjBRgiPtX5FwFmEyKTlWFrr5voz-Auko35oP0t3-zhPxR3PQMYa-7KhDeDtrv4",
+    ":hand-purple-blue-peace:": "https://yt3.ggpht.com/-sC8wj6pThd7FNdslEoJlG4nB9SIbrJG3CRGh7-bNV0RVfcrJuwiWHoUZ6UmcVs7sQjxTg4",
+    ":face-blue-question-mark:": "https://yt3.ggpht.com/Wx4PMqTwG3f4gtR7J9Go1s8uozzByGWLSXHzrh3166ixaYRinkH_F05lslfsRUsKRvHXrDk",
+    ":face-blue-covering-eyes:": "https://yt3.ggpht.com/kj3IgbbR6u-mifDkBNWVcdOXC-ut-tiFbDpBMGVeW79c2c54n5vI-HNYCOC6XZ9Bzgupc10",
+    ":face-purple-smiling-fangs:": "https://yt3.ggpht.com/k1vqi6xoHakGUfa0XuZYWHOv035807ARP-ZLwFmA-_NxENJMxsisb-kUgkSr96fj5baBOZE",
+    ":face-purple-sweating:": "https://yt3.ggpht.com/tRnrCQtEKlTM9YLPo0vaxq9mDvlT0mhDld2KI7e_nDRbhta3ULKSoPVHZ1-bNlzQRANmH90",
+    ":face-purple-smiling-tears:": "https://yt3.ggpht.com/MJV1k3J5s0hcUfuo78Y6MKi-apDY5NVDjO9Q7hL8fU4i0cIBgU-cU4rq4sHessJuvuGpDOjJ",
+    ":face-blue-star-eyes:": "https://yt3.ggpht.com/m_ANavMhp6cQ1HzX0HCTgp_er_yO2UA28JPbi-0HElQgnQ4_q5RUhgwueTpH-st8L3MyTA",
+    ":face-blue-heart-eyes:": "https://yt3.ggpht.com/M9tzKd64_r3hvgpTSgca7K3eBlGuyiqdzzhYPp7ullFAHMgeFoNLA0uQ1dGxj3fXgfcHW4w",
+    ":face-blue-three-eyes:": "https://yt3.ggpht.com/nSQHitVplLe5uZC404dyAwv1f58S3PN-U_799fvFzq-6b3bv-MwENO-Zs1qQI4oEXCbOJg",
+    ":face-blue-droopy-eyes:": "https://yt3.ggpht.com/hGPqMUCiXGt6zuX4dHy0HRZtQ-vZmOY8FM7NOHrJTta3UEJksBKjOcoE6ZUAW9sz7gIF_nk",
+    ":planet-orange-purple-ring:": "https://yt3.ggpht.com/xkaLigm3P4_1g4X1JOtkymcC7snuJu_C5YwIFAyQlAXK093X0IUjaSTinMTLKeRZ6280jXg",
+    ":face-turquoise-speaker-shape:": "https://yt3.ggpht.com/WTFFqm70DuMxSC6ezQ5Zs45GaWD85Xwrd9Sullxt54vErPUKb_o0NJQ4kna5m7rvjbRMgr3A",
+    ":octopus-red-waving:": "https://yt3.ggpht.com/L9Wo5tLT_lRQX36iZO_fJqLJR4U74J77tJ6Dg-QmPmSC_zhVQ-NodMRc9T0ozwvRXRaT43o",
+    ":pillow-turquoise-hot-chocolate:": "https://yt3.ggpht.com/cAR4cehRxbn6dPbxKIb-7ShDdWnMxbaBqy2CXzBW4aRL3IqXs3rxG0UdS7IU71OEU7LSd20q",
+    ":hourglass-purple-sand-orange:": "https://yt3.ggpht.com/MFDLjasPt5cuSM_tK5Fnjaz_k08lKHdX_Mf7JkI6awaHriC3rGL7J_wHxyG6PPhJ8CJ6vsQ",
+    ":fish-orange-wide-eyes:": "https://yt3.ggpht.com/iQLKgKs7qL3091VHgVgpaezc62uPewy50G_DoI0dMtVGmQEX5pflZrUxWfYGmRfzfUOOgJs",
+    ":popcorn-yellow-striped-smile:": "https://yt3.ggpht.com/TW_GktV5uVYviPDtkCRCKRDrGlUc3sJ5OHO81uqdMaaHrIQ5-sXXwJfDI3FKPyv4xtGpOlg",
+    ":penguin-blue-waving-tear:": "https://yt3.ggpht.com/p2u7dcfZau4_bMOMtN7Ma8mjHX_43jOjDwITf4U9adT44I-y-PT7ddwPKkfbW6Wx02BTpNoC",
+    ":clock-turquoise-looking-up:": "https://yt3.ggpht.com/tDnDkDZykkJTrsWEJPlRF30rmbek2wcDcAIymruOvSLTsUFIZHoAiYTRe9OtO-80lDfFGvo",
+    ":face-red-smiling-live:": "https://yt3.ggpht.com/14Pb--7rVcqnHvM7UlrYnV9Rm4J-uojX1B1kiXYvv1my-eyu77pIoPR5sH28-eNIFyLaQHs",
+    ":hands-yellow-heart-red:": "https://yt3.ggpht.com/qWSu2zrgOKLKgt_E-XUP9e30aydT5aF3TnNjvfBL55cTu1clP8Eoh5exN3NDPEVPYmasmoA",
+    ":volcano-green-lava-orange:": "https://yt3.ggpht.com/_IWOdMxapt6IBY5Cb6LFVkA3J77dGQ7P2fuvYYv1-ahigpVfBvkubOuGLSCyFJ7jvis-X8I",
+    ":person-turquoise-waving-speech:": "https://yt3.ggpht.com/gafhCE49PH_9q-PuigZaDdU6zOKD6grfwEh1MM7fYVs7smAS_yhYCBipq8gEiW73E0apKTzi",
+    ":face-orange-tv-shape:": "https://yt3.ggpht.com/EVK0ik6dL5mngojX9I9Juw4iFh053emP0wcUjZH0whC_LabPq-DZxN4Jg-tpMcEVfJ0QpcJ4",
+    ":face-blue-spam-shape:": "https://yt3.ggpht.com/hpwvR5UgJtf0bGkUf8Rn-jTlD6DYZ8FPOFY7rhZZL-JHj_7OPDr7XUOesilRPxlf-aW42Zg",
+    ":face-fuchsia-flower-shape:": "https://yt3.ggpht.com/o9kq4LQ0fE_x8yxj29ZeLFZiUFpHpL_k2OivHbjZbttzgQytU49Y8-VRhkOP18jgH1dQNSVz",
+    ":person-blue-holding-pencil:": "https://yt3.ggpht.com/TKgph5IHIHL-A3fgkrGzmiNXzxJkibB4QWRcf_kcjIofhwcUK_pWGUFC4xPXoimmne3h8eQ",
+    ":body-turquoise-yoga-pose:": "https://yt3.ggpht.com/GW3otW7CmWpuayb7Ddo0ux5c-OvmPZ2K3vaytJi8bHFjcn-ulT8vcHMNcqVqMp1j2lit2Vw",
+    ":location-yellow-teal-bars:": "https://yt3.ggpht.com/YgeWJsRspSlAp3BIS5HMmwtpWtMi8DqLg9fH7DwUZaf5kG4yABfE1mObAvjCh0xKX_HoIR23",
+    ":person-turquoise-writing-headphones:": "https://yt3.ggpht.com/DC4KrwzNkVxLZa2_KbKyjZTUyB9oIvH5JuEWAshsMv9Ctz4lEUVK0yX5PaMsTK3gGS-r9w",
+    ":person-turquoise-wizard-wand:": "https://yt3.ggpht.com/OiZeNvmELg2PQKbT5UCS0xbmsGbqRBSbaRVSsKnRS9gvJPw7AzPp-3ysVffHFbSMqlWKeQ",
+    ":person-blue-eating-spaghetti:": "https://yt3.ggpht.com/AXZ8POmCHoxXuBaRxX6-xlT5M-nJZmO1AeUNo0t4o7xxT2Da2oGy347sHpMM8shtUs7Xxh0",
+    ":face-turquoise-music-note:": "https://yt3.ggpht.com/-K6oRITFKVU8V4FedrqXGkV_vTqUufVCQpBpyLK6w3chF4AS1kzT0JVfJxhtlfIAw5jrNco",
+    ":person-pink-swaying-hair:": "https://yt3.ggpht.com/L8cwo8hEoVhB1k1TopQaeR7oPTn7Ypn5IOae5NACgQT0E9PNYkmuENzVqS7dk2bYRthNAkQ",
+    ":person-blue-speaking-microphone:": "https://yt3.ggpht.com/FMaw3drKKGyc6dk3DvtHbkJ1Ki2uD0FLqSIiFDyuChc1lWcA9leahX3mCFMBIWviN2o8eyc",
+    ":rocket-red-countdown-liftoff:": "https://yt3.ggpht.com/lQZFYAeWe5-SJ_fz6dCAFYz1MjBnEek8DvioGxhlj395UFTSSHqYAmfhJN2i0rz3fDD5DQ",
+    ":face-purple-rain-drops:": "https://yt3.ggpht.com/woHW5Jl2RD0qxijnl_4vx4ZhP0Zp65D4Ve1DM_HrwJW-Kh6bQZoRjesGnEwjde8F4LynrQ",
+    ":face-pink-drinking-tea:": "https://yt3.ggpht.com/WRLIgKpnClgYOZyAwnqP-Edrdxu6_N19qa8gsB9P_6snZJYIMu5YBJX8dlM81YG6H307KA",
+    ":person-purple-stage-event:": "https://yt3.ggpht.com/YeVVscOyRcDJAhKo2bMwMz_B6127_7lojqafTZECTR9NSEunYO5zEi7R7RqxBD7LYLxfNnXe",
+    ":face-purple-open-box:": "https://yt3.ggpht.com/7lJM2sLrozPtNLagPTcN0xlcStWpAuZEmO2f4Ej5kYgSp3woGdq3tWFrTH30S3mD2PyjlQ",
+    ":person-yellow-podium-blue:": "https://yt3.ggpht.com/N28nFDm82F8kLPAa-jY_OySFsn3Ezs_2Bl5kdxC8Yxau5abkj_XZHYsS3uYKojs8qy8N-9w",
+    ":baseball-white-cap-out:": "https://yt3.ggpht.com/8DaGaXfaBN0c-ZsZ-1WqPJ6H9TsJOlUUQQEoXvmdROphZE9vdRtN0867Gb2YZcm2x38E9Q",
+    ":whistle-red-blow:": "https://yt3.ggpht.com/DBu1ZfPJTnX9S1RyKKdBY-X_CEmj7eF6Uzl71j5jVBz5y4k9JcKnoiFtImAbeu4u8M2X8tU",
+    ":person-turquoise-crowd-surf:": "https://yt3.ggpht.com/Q0wFvHZ5h54xGSTo-JeGst6InRU3yR6NdBRoyowaqGY66LPzdcrV2t-wBN21kBIdb2TeNA",
+    ":finger-red-number-one:": "https://yt3.ggpht.com/Hbk0wxBzPTBCDvD_y4qdcHL5_uu7SeOnaT2B7gl9GLB4u8Ecm9OaXCGSMMUBFeNGl5Q3fHJ2",
+    ":text-yellow-goal:": "https://yt3.ggpht.com/tnHp8rHjXecGbGrWNcs7xss_aVReaYE6H-QWRCXYg_aaYszHXnbP_pVADnibUiimspLvgX0L",
+    ":medal-yellow-first-red:": "https://yt3.ggpht.com/EEHiiIalCBKuWDPtNOjjvmEZ-KRkf5dlgmhe5rbLn8aZQl-pNz_paq5UjxNhCrI019TWOQ",
+    ":person-blue-wheelchair-race:": "https://yt3.ggpht.com/ZepxPGk5TwzrKAP9LUkzmKmEkbaF5OttNyybwok6mJENw3p0lxDXkD1X2_rAwGcUM0L-D04",
+    ":card-red-penalty:": "https://yt3.ggpht.com/uRDUMIeAHnNsaIaShtRkQ6hO0vycbNH_BQT7i3PWetFJb09q88RTjxwzToBy9Cez20D7hA",
+    ":stopwatch-blue-hand-timer:": "https://yt3.ggpht.com/DCvefDAiskRfACgolTlvV1kMfiZVcG50UrmpnRrg3k0udFWG2Uo9zFMaJrJMSJYwcx6fMgk",
+    ":yt:": "https://yt3.ggpht.com/IkpeJf1g9Lq0WNjvSa4XFq4LVNZ9IP5FKW8yywXb12djo1OGdJtziejNASITyq4L0itkMNw",
+    ":oops:": "https://yt3.ggpht.com/PFoVIqIiFRS3aFf5-bt_tTC0WrDm_ylhF4BKKwgqAASNb7hVgx_adFP-XVhFiJLXdRK0EQ",
+    ":buffering:": "https://yt3.ggpht.com/5gfMEfdqO9CiLwhN9Mq7VI6--T2QFp8AXNNy5Fo7btfY6fRKkThWq35SCZ6SPMVCjg-sUA",
+    ":stayhome:": "https://yt3.ggpht.com/_1FGHypiub51kuTiNBX1a0H3NyFih3TnHX7bHU06j_ajTzT0OQfMLl9RI1SiQoxtgA2Grg",
+    ":dothefive:": "https://yt3.ggpht.com/-nM0DOd49969h3GNcl705Ti1fIf1ZG_E3JxcOUVV-qPfCW6jY8xZ98caNLHkVSGRTSEb7Y9y",
+    ":elbowbump:": "https://yt3.ggpht.com/2ou58X5XuhTrxjtIM2wew1f-HKRhN_T5SILQgHE-WD9dySzzJdGwL4R1gpKiJXcbtq6sjQ",
+    ":goodvibes:": "https://yt3.ggpht.com/2CvFOwgKpL29mW_C51XvaWa7Eixtv-3tD1XvZa1_WemaDDL2AqevKbTZ1rdV0OWcnOZRag",
+    ":thanksdoc:": "https://yt3.ggpht.com/bUnO_VwXW2hDf-Da8D64KKv6nBJDYUBuo13RrOg141g2da8pi9-KClJYlUDuqIwyPBfvOO8",
+    ":videocall:": "https://yt3.ggpht.com/k5v_oxUzRWmTOXP0V6WJver6xdS1lyHMPcMTfxn23Md6rmixoR5RZUusFbZi1uZwjF__pv4",
+    ":virtualhug:": "https://yt3.ggpht.com/U1TjOZlqtS58NGqQhE8VWDptPSrmJNkrbVRp_8jI4f84QqIGflq2Ibu7YmuOg5MmVYnpevc",
+    ":yougotthis:": "https://yt3.ggpht.com/s3uOe4lUx3iPIt1h901SlMp_sKCTp3oOVj1JV8izBw_vDVLxFqk5dq-3NX-nK_gnUwVEXld3",
+    ":sanitizer:": "https://yt3.ggpht.com/EJ_8vc4Gl-WxCWBurHwwWROAHrPzxgePodoNfkRY1U_I8L1O2zlqf7-wfUtTeyzq2qHNnocZ",
+    ":takeout:": "https://yt3.ggpht.com/FizHI5IYMoNql9XeP7TV3E0ffOaNKTUSXbjtJe90e1OUODJfZbWU37VqBbTh-vpyFHlFIS0",
+    ":hydrate:": "https://yt3.ggpht.com/tpgZgmhX8snKniye36mnrDVfTnlc44EK92EPeZ0m9M2EPizn1vKEGJzNYdp7KQy6iNZlYDc1",
+    ":chillwcat:": "https://yt3.ggpht.com/y03dFcPc1B7CO20zgQYzhcRPka5Bhs6iSg57MaxJdhaLidFvvXBLf_i4_SHG7zJ_2VpBMNs",
+    ":chillwdog:": "https://yt3.ggpht.com/Ir9mDxzUi0mbqyYdJ3N9Lq7bN5Xdt0Q7fEYFngN3GYAcJT_tccH1as1PKmInnpt2cbWOam4",
+    ":elbowcough:": "https://yt3.ggpht.com/DTR9bZd1HOqpRJyz9TKiLb0cqe5Hb84Yi_79A6LWlN1tY-5kXqLDXRmtYVKE9rcqzEghmw",
+    ":learning:": "https://yt3.ggpht.com/ZuBuz8GAQ6IEcQc7CoJL8IEBTYbXEvzhBeqy1AiytmhuAT0VHjpXEjd-A5GfR4zDin1L53Q",
+    ":washhands:": "https://yt3.ggpht.com/qXUeUW0KpKBc9Z3AqUqr_0B7HbW1unAv4qmt7-LJGUK_gsFBIaHISWJNt4n3yvmAnQNZHE-u",
+    ":socialdist:": "https://yt3.ggpht.com/igBNi55-TACUi1xQkqMAor-IEXmt8He56K7pDTG5XoTsbM-rVswNzUfC5iwnfrpunWihrg",
+    ":shelterin:": "https://yt3.ggpht.com/gjC5x98J4BoVSEPfFJaoLtc4tSBGSEdIlfL2FV4iJG9uGNykDP9oJC_QxAuBTJy6dakPxVeC"
 }
