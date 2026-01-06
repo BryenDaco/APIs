@@ -1,0 +1,96 @@
+{
+    "config": {
+        "fontawsome": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    },
+    "profile": {
+        "name": "Bryen Daco",
+        "title": "Backend Software & Web Developer",
+        "status": "Available for freelance & full-time opportunities",
+        "color": "#429f59",
+        "avatar": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Logo2.png",
+        "cover": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/336504814_735838164915491_2888128667491873511_n.jpg"
+    },
+    "socials": [
+        {
+            "name": "FaceBook",
+            "username": "BryenDaco",
+            "url": "https://www.facebook.com/bryendaco",
+            "icon": "fa-brands fa-facebook-f",
+            "visible": true
+        },
+        {
+            "name": "Instagram",
+            "username": "bryen_daco",
+            "url": "https://www.instagram.com/bryen_daco/",
+            "icon": "fa-brands fa-instagram",
+            "visible": true
+        },
+        {
+            "name": "Discord",
+            "username": "bryendaco",
+            "url": "https://discord.com/users/654978277701845003",
+            "icon": "fa-brands fa-discord",
+            "visible": true
+        },
+        {
+            "name": "YouTube",
+            "username": "@bryendaco",
+            "url": "https://www.youtube.com/@bryendaco",
+            "icon": "fa-brands fa-youtube",
+            "visible": true
+        },
+        {
+            "name": "TikTok",
+            "username": "@bryendaco",
+            "url": "https://www.tiktok.com/@bryendaco",
+            "icon": "fa-brands fa-tiktok",
+            "visible": true
+        },
+        {
+            "name": "Github",
+            "username": "@bryendaco",
+            "url": "https://github.com/BryenDaco",
+            "icon": "fa-brands fa-tiktok",
+            "visible": true
+        },
+        {
+            "name": "WhatsApp",
+            "username": "(+94)78 628 3237",
+            "url": "https://wa.me/94786283237",
+            "icon": "fa-brands fa-whatsapp",
+            "visible": true
+        },
+        {
+            "name": "Facetime",
+            "username": "(+94)78 628 3237 / bryendaco@gmail.com",
+            "url": "https://wa.me/94786283237",
+            "icon": "fa-brands fa-video",
+            "visible": true
+        },
+        {
+            "name": "Gmail",
+            "username": "bryendaco@gmail.com",
+            "url": "mailto://bryendaco@gmail.com",
+            "icon": "fa-brands fa-envelope",
+            "visible": true
+        }
+    ],
+    "About": "I'm a Backend Software & Web Developer focused on building fast, scalable, and reliable systems. I blend technical problem-solving with creative execution, working across both development and live production environments. Whether it's crafting backend architectures or setting up professional broadcast workflows, I aim to deliver clean, efficient, and impactful results.<br><br><strong>What I do</strong><ul><li>Backend software & web development</li><li>Hard-coding + no-code/low-code solution building</li><li>Live stream setup for studios & event venues</li><li>Live event broadcasting (on-site & remote)</li><li>Developing custom stream elements & overlays</li><li>Performance optimization, automation, and workflow improvements</li></ul>",
+    "skills": [
+        {
+            "sku": "discord",
+            "name": "Discord",
+            "image": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Discord-Developers.jpg",
+            "tags": [
+                "servers_designing"
+            ]
+        }
+    ],
+    "skills_tags": [
+        {
+            "sku": "servers_designing",
+            "Name": "Servers Designing",
+            "icon": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/servers_designing.png"
+        }
+    ]
+}
