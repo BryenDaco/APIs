@@ -7,68 +7,61 @@
         "title": "Backend Software & Web Developer",
         "status": "Available for freelance & full-time opportunities",
         "color": "#429f59",
-        "avatar": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Logo2.png",
-        "cover": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/336504814_735838164915491_2888128667491873511_n.jpg"
+        "avatar": "https://bryendaco.github.io/APIs/Logo2.png",
+        "cover": "https://bryendaco.github.io/APIs/336504814_735838164915491_2888128667491873511_n.jpg"
     },
     "socials": [
         {
-            "name": "FaceBook",
+            "title": "FaceBook",
             "username": "BryenDaco",
             "url": "https://www.facebook.com/bryendaco",
             "icon": "fa-brands fa-facebook-f",
             "visible": true
         },
         {
-            "name": "Instagram",
+            "title": "Instagram",
             "username": "bryen_daco",
             "url": "https://www.instagram.com/bryen_daco/",
             "icon": "fa-brands fa-instagram",
             "visible": true
         },
         {
-            "name": "Discord",
+            "title": "Discord",
             "username": "bryendaco",
             "url": "https://discord.com/users/654978277701845003",
             "icon": "fa-brands fa-discord",
             "visible": true
         },
         {
-            "name": "YouTube",
+            "title": "YouTube",
             "username": "@bryendaco",
             "url": "https://www.youtube.com/@bryendaco",
             "icon": "fa-brands fa-youtube",
             "visible": true
         },
         {
-            "name": "TikTok",
+            "title": "TikTok",
             "username": "@bryendaco",
             "url": "https://www.tiktok.com/@bryendaco",
             "icon": "fa-brands fa-tiktok",
             "visible": true
         },
         {
-            "name": "Github",
+            "title": "Github",
             "username": "@bryendaco",
             "url": "https://github.com/BryenDaco",
             "icon": "fa-brands fa-tiktok",
             "visible": true
         },
         {
-            "name": "WhatsApp",
+            "title": "WhatsApp",
             "username": "(+94)78 628 3237",
             "url": "https://wa.me/94786283237",
             "icon": "fa-brands fa-whatsapp",
             "visible": true
         },
         {
-            "name": "Facetime",
-            "username": "(+94)78 628 3237 / bryendaco@gmail.com",
-            "url": "https://wa.me/94786283237",
-            "icon": "fa-brands fa-video",
-            "visible": true
-        },
-        {
-            "name": "Gmail",
+            "title": "Gmail",
             "username": "bryendaco@gmail.com",
             "url": "mailto://bryendaco@gmail.com",
             "icon": "fa-brands fa-envelope",
@@ -79,18 +72,196 @@
     "skills": [
         {
             "sku": "discord",
-            "name": "Discord",
-            "image": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Discord-Developers.jpg",
+            "title": "Discord",
+            "image": "https://bryendaco.github.io/APIs/Discord-Developers.jpg",
             "tags": [
-                "servers_designing"
+                "servers_designing", "up_to_date", "bots_dev", "automation", 
+                "perms_security_antiRaid", "server_mod"
+            ]
+        },
+        {
+            "sku": "soft_web_dev",
+            "title": "Software & Web Development",
+            "image": "https://bryendaco.github.io/APIs/top11.png",
+            "tags": [
+                "coding", "authSys", "up_to_date", "backend", "autoWscript",
+                "deplyNdevops", "apidev", "dbDesign"
+            ]
+        },
+        {
+            "sku": "broadcasting",
+            "title": "Broadcasting Setup",
+            "image": "https://bryendaco.github.io/APIs/istockphoto-1169475494-612x612.jpg",
+            "tags": [
+                "onsite_remote_setupNbroadcast", "live_graphicsNoverlays", "obsSetup", "multicamSetup", 
+                "scenes_designNtransitions", "debugNtroubleshoot"
+            ]
+        },
+        {
+            "sku": "whatsapp_automation",
+            "title": "Advanced WhatsApp Automation",
+            "image": "https://bryendaco.github.io/APIs/converse-one-webp-new.webp",
+            "tags": [
+                "automation", "up_to_date", "customCmd", "webhook", "mediaHandling",
+                "apiTriggers"
+            ]
+        },
+        {
+            "sku": "streamdeck_plugins",
+            "title": "Custom StreamDeck Plugin Development",
+            "image": "https://bryendaco.github.io/APIs/Stream_Deck__Lifestyle_Shot_16-Personalizar.jpg",
+            "tags": [
+                "fullyCustom", "automation", "realtimeEvent", "apidev", "up_to_date",
+                "dynamicUI", "pluginDebugNoptimize"
             ]
         }
     ],
-    "skills_tags": [
+    "skills_tags": {
+        "servers_designing": {
+            "title": "Servers Designing",
+            "icon": "https://bryendaco.github.io/APIs/servers_designing.png"
+        },
+        "up_to_date": {
+            "title": "Up-to-date",
+            "icon": "https://bryendaco.github.io/APIs/rounded-rotate-arrow-check-mark-260nw-1619042440.png"
+        },
+        "bots_dev": {
+            "title": "Bots Developing",
+            "icon": "https://bryendaco.github.io/APIs/svgviewer-png-output%20(1).png"
+        },
+        "automation": {
+            "title": "Automation Systems",
+            "icon": "https://bryendaco.github.io/APIs/automation.png"
+        },
+        "perms_security_antiRaid": {
+            "title": "Permissions, Security & Anti-Raid Setup",
+            "icon": "https://bryendaco.github.io/APIs/security.png"
+        },
+        "server_mod": {
+            "title": "Servers Moderating",
+            "icon": "https://bryendaco.github.io/APIs/mod.png"
+        },
+        "coding": {
+            "title": "Hard Coding & Non Coding",
+            "icon": "https://bryendaco.github.io/APIs/codeing.png"
+        },
+        "authSys": {
+            "title": "Authentication Systems",
+            "icon": "https://bryendaco.github.io/APIs/fingerprint.png"
+        },
+        "backend": {
+            "title": "Backend Architecture",
+            "icon": "https://bryendaco.github.io/APIs/backend.png"
+        },
+        "autoWscript": {
+            "title": "Automation & Scripting",
+            "icon": "https://bryendaco.github.io/APIs/automation.png"
+        },
+        "deplyNdevops": {
+            "title": "Deployment & DevOps",
+            "icon": "https://bryendaco.github.io/APIs/devops.png"
+        },
+        "apidev": {
+            "title": "API Development & Integration",
+            "icon": "https://bryendaco.github.io/APIs/apidev.png"
+        },
+        "dbDesign": {
+            "title": "Database Design & Optimization",
+            "icon": "https://bryendaco.github.io/APIs/officedatabase.png"
+        },
+        "onsite_remote_setupNbroadcast": {
+            "title": "On-Site/Remote Setup & Broadcast",
+            "icon": "https://bryendaco.github.io/APIs/location.png"
+        },
+        "live_graphicsNoverlays": {
+            "title": "Live Graphics & Overlays",
+            "icon": "https://bryendaco.github.io/APIs/12373083.png"
+        },
+        "obsSetup": {
+            "title": "OBS Setup",
+            "icon": "https://bryendaco.github.io/APIs/obs.png"
+        },
+        "networkOptimize": {
+            "title": "Network & Stream Stability Management",
+            "icon": "https://bryendaco.github.io/APIs/images%20(5).png"
+        },
+        "multicamSetup": {
+            "title": "Multicam Setup",
+            "icon": "https://bryendaco.github.io/APIs/images%20(4).png"
+        },
+        "scenes_designNtransitions": {
+            "title": "Scene Design & Transitions",
+            "icon": "https://bryendaco.github.io/APIs/transition.png"
+        },
+        "debugNtroubleshoot": {
+            "title": "Troubleshooting & Bugs Fixing",
+            "icon": "https://bryendaco.github.io/APIs/troubleshoot.png"
+        },
+        "customCmd": {
+            "title": "Custom Command, Auto & Smart Responses",
+            "icon": "https://bryendaco.github.io/APIs/speech.png"
+        },
+        "webhook": {
+            "title": "Webhook Integrations",
+            "icon": "https://bryendaco.github.io/APIs/webhooks.png"
+        },
+        "mediaHandling": {
+            "title": "Media Handling (Images, Files, Audio)",
+            "icon": "https://bryendaco.github.io/APIs/stack-of-photos.png"
+        },
+        "apiTriggers": {
+            "title": "API & Database-Linked Triggers",
+            "icon": "https://bryendaco.github.io/APIs/automation.png"
+        },
+        "fullyCustom": {
+            "title": "Fully Customized Actions & Triggers",
+            "icon": "https://bryendaco.github.io/APIs/codeing.png"
+        },
+        "realtimeEvent": {
+            "title": "Real-Time Event Handling",
+            "icon": "https://bryendaco.github.io/APIs/realtimeEvent.png"
+        },
+        "dynamicUI": {
+            "title": "Dynamic UI Elements",
+            "icon": "https://bryendaco.github.io/APIs/stack-of-photos.png"
+        },
+        "pluginDebugNoptimize": {
+            "title": "Plugin Optimization & Debugging",
+            "icon": "https://bryendaco.github.io/APIs/debug.png"
+        }
+    },
+    "works": [
         {
-            "sku": "servers_designing",
-            "Name": "Servers Designing",
-            "icon": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/servers_designing.png"
+            "sku": "maniyastreams",
+            "Title": "ManiYa Streams - Ride Night Overlay and Chatbox",
+            "image": "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20144134.jpeg",
+            "bgImg": "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20175226.jpeg",
+            "short_description": "I rebuilt ManiYa Streams' entire live chatbox and created a custom animated browser source for his Ride Night events. It connects to a small Discord bot that lets him or his mods trigger the sliding “Coming up next” game panels directly from a dedicated discord channel, making the visuals fully controllable in real time.",
+            "long_description": "I rebuilt ManiYa Streams' entire live chatbox and created a custom animated browser source for his Ride Night events. The chatbox now supports full YouTube membership emojis, Kick emojis, and platform-specific icons such as moderator, verified, member badges, and more to making the live chat visually richer and easier for viewers to follow. I also developed a Discord-connected control system, where a small bot listens to a dedicated discord channel and allows ManiYa or his moderators to trigger the sliding “Coming up next” game panels in real time. This lets them seamlessly pop in or slide out game announcements whenever needed, giving the broadcast a professional, event-style flow without touching OBS.",
+            "skills": [ "broadcasting" ],
+            "skill_tags": [ "obsSetup", "live_graphicsNoverlays" ],
+            "gallary": [
+                "https://bryendaco.github.io/APIs/creenshot%202025-12-10%20113356.jpeg",
+                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20113715.jpeg",
+                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20185350.jpeg",
+                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20184620.jpeg"
+            ]
+        },
+        {
+            "sku": "gsc_discord",
+            "Title": "Goldstone RP - Discord Bots",
+            "image": "https://bryendaco.github.io/APIs/Gemini_Generated_Image_vh7oiyvh7oiyvh7o.jpeg",
+            "bgImg": "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20221801.jpeg",
+            "short_description": "I developed multiple Discord bots for Goldstone RP, including a custom welcome system with canvas-generated images, cleanly formatted information channels, and a full whitelisting interview system with approval and decline functionality.",
+            "long_description": "For Goldstone RP, I built a suite of Discord bots designed to enhance community onboarding and server management. The system includes a fully customized welcome bot that generates canvas-based welcome images for new players, giving the server a polished first impression. I also structured and automated multiple information channels with clean, well-formatted messages explaining game details, server rules, and essential guides to help players get started quickly. Additionally, I developed a complete whitelisting interview system that allows staff to review applications and respond with approve, decline, or other custom outcomes directly through automated bot actions for streamlining the entire player approval workflow and reducing manual workload for moderators.",
+            "skills": [ "discord" ],
+            "skill_tags": [ "automation", "bots_dev", "up_to_date" ],
+            "gallary": [
+                "https://bryendaco.github.io/APIs/disSS%20(1).png",
+                "https://bryendaco.github.io/APIs/disSS%20(2).png",
+                "https://bryendaco.github.io/APIs/disSS%20(3).png",
+                "https://bryendaco.github.io/APIs/disSS%20(4).png"
+            ]
         }
     ]
 }
