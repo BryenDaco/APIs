@@ -65,7 +65,7 @@
             "username": "bryendaco@gmail.com",
             "url": "mailto://bryendaco@gmail.com",
             "icon": "fa-brands fa-envelope",
-            "visible": true
+            "visible": false
         }
     ],
     "About": "I'm a Backend Software & Web Developer focused on building fast, scalable, and reliable systems. I blend technical problem-solving with creative execution, working across both development and live production environments. Whether it's crafting backend architectures or setting up professional broadcast workflows, I aim to deliver clean, efficient, and impactful results.<br><br><strong>What I do</strong><ul><li>Backend software & web development</li><li>Hard-coding + no-code/low-code solution building</li><li>Live stream setup for studios & event venues</li><li>Live event broadcasting (on-site & remote)</li><li>Developing custom stream elements & overlays</li><li>Performance optimization, automation, and workflow improvements</li></ul>",
