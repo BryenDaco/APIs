@@ -64,7 +64,7 @@
             "title": "Gmail",
             "username": "bryendaco@gmail.com",
             "url": "mailto://bryendaco@gmail.com",
-            "icon": "fa-brands fa-envelope",
+            "icon": "fa-solid fa-envelope",
             "visible": true
         }
     ],
