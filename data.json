@@ -91,7 +91,7 @@
         {
             "sku": "pos",
             "title": "Point of Sale Systems (POS)",
-            "image": "",
+            "image": "https://bryendaco.github.io/APIs/pos.png",
             "tags": [
                 "autoWscript", "coding", "authSys", "apidev", "dbDesign", "debugNtroubleshoot",
                 "fullyCustom", "dynamicUI"
