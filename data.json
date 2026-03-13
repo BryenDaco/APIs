@@ -89,6 +89,15 @@
             ]
         },
         {
+            "sku": "pos",
+            "title": "Point of Sale Systems (POS)",
+            "image": "",
+            "tags": [
+                "autoWscript", "coding", "authSys", "apidev", "dbDesign", "debugNtroubleshoot",
+                "fullyCustom", "dynamicUI"
+            ]
+        },
+        {
             "sku": "broadcasting",
             "title": "Broadcasting Setup",
             "image": "https://bryendaco.github.io/APIs/istockphoto-1169475494-612x612.jpg",
