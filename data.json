@@ -241,20 +241,23 @@
     },
     "works": [
         {
-            "sku": "maniyastreams",
-            "Title": "ManiYa Streams - Ride Night Overlay and Chatbox",
-            "currentlyWorking": false,
-            "image": "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20144134.jpeg",
-            "bgImg": "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20175226.jpeg",
-            "short_description": "I rebuilt ManiYa Streams' entire live chatbox and created a custom animated browser source for his Ride Night events. It connects to a small Discord bot that lets him or his mods trigger the sliding “Coming up next” game panels directly from a dedicated discord channel, making the visuals fully controllable in real time.",
-            "long_description": "I rebuilt ManiYa Streams' entire live chatbox and created a custom animated browser source for his Ride Night events. The chatbox now supports full YouTube membership emojis, Kick emojis, and platform-specific icons such as moderator, verified, member badges, and more to making the live chat visually richer and easier for viewers to follow. I also developed a Discord-connected control system, where a small bot listens to a dedicated discord channel and allows ManiYa or his moderators to trigger the sliding “Coming up next” game panels in real time. This lets them seamlessly pop in or slide out game announcements whenever needed, giving the broadcast a professional, event-style flow without touching OBS.",
-            "skills": [ "broadcasting" ],
-            "skill_tags": [ "obsSetup", "live_graphicsNoverlays" ],
+            "sku": "sacarz_web",
+            "Title": "SA Carz - Internal & Public System",
+            "currentlyWorking": true,
+            "image": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/sacarz_logo.jpg",
+            "bgImg": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/sacarz_cover.JPEG",
+            "short_description": "I built a comprehensive car sales platform for SA Carz. It features a public dynamic storefront for browsing vehicles and a secure internal staff portal for advanced inventory management, vehicle pricing calculations & etc.",
+            "long_description": "For SA Carz, I developed a full-stack e-commerce and internal management platform from the ground up. The public-facing site provides a dynamic, high-performance storefront where customers can browse the latest vehicle inventory. The real power lies in the secure internal staff portal, which streamlines daily operations with advanced features like multi-variant inventory management and a specialized pricing engine that automatically calculates import costs for vehicles. I implemented robust authentication and clean, glassmorphism-inspired UI to ensure both customers and staff have a premium, intuitive experience.",
+            "skills": [ "soft_web_dev" ],
+            "skill_tags": [ "coding", "backend", "dbDesign", "authSys", "dynamicUI" ],
             "gallary": [
-                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20113356.jpeg",
-                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20113715.jpeg",
-                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20185350.jpeg",
-                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20184620.jpeg"
+                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-27%20100424.png",
+                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-27%20100246.png",
+                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20100859.png",
+                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101115.png",
+                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101305.png",
+                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101442.png",
+                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101531.png"
             ]
         },
         {
@@ -275,24 +278,22 @@
             ]
         },
         {
-            "sku": "sacarz_web",
-            "Title": "SA Carz - Internal & Public System",
-            "currentlyWorking": true,
-            "image": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/sacarz_logo.jpg",
-            "bgImg": "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/sacarz_cover.JPEG",
-            "short_description": "I built a comprehensive car sales platform for SA Carz. It features a public dynamic storefront for browsing vehicles and a secure internal staff portal for advanced inventory management, vehicle pricing calculations & etc.",
-            "long_description": "For SA Carz, I developed a full-stack e-commerce and internal management platform from the ground up. The public-facing site provides a dynamic, high-performance storefront where customers can browse the latest vehicle inventory. The real power lies in the secure internal staff portal, which streamlines daily operations with advanced features like multi-variant inventory management and a specialized pricing engine that automatically calculates import costs for vehicles. I implemented robust authentication and clean, glassmorphism-inspired UI to ensure both customers and staff have a premium, intuitive experience.",
-            "skills": [ "soft_web_dev" ],
-            "skill_tags": [ "coding", "backend", "dbDesign", "authSys", "dynamicUI" ],
+            "sku": "maniyastreams",
+            "Title": "ManiYa Streams - Ride Night Overlay and Chatbox",
+            "currentlyWorking": false,
+            "image": "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20144134.jpeg",
+            "bgImg": "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20175226.jpeg",
+            "short_description": "I rebuilt ManiYa Streams' entire live chatbox and created a custom animated browser source for his Ride Night events. It connects to a small Discord bot that lets him or his mods trigger the sliding “Coming up next” game panels directly from a dedicated discord channel, making the visuals fully controllable in real time.",
+            "long_description": "I rebuilt ManiYa Streams' entire live chatbox and created a custom animated browser source for his Ride Night events. The chatbox now supports full YouTube membership emojis, Kick emojis, and platform-specific icons such as moderator, verified, member badges, and more to making the live chat visually richer and easier for viewers to follow. I also developed a Discord-connected control system, where a small bot listens to a dedicated discord channel and allows ManiYa or his moderators to trigger the sliding “Coming up next” game panels in real time. This lets them seamlessly pop in or slide out game announcements whenever needed, giving the broadcast a professional, event-style flow without touching OBS.",
+            "skills": [ "broadcasting" ],
+            "skill_tags": [ "obsSetup", "live_graphicsNoverlays" ],
             "gallary": [
-                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-27%20100424.png",
-                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-27%20100246.png",
-                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20100859.png",
-                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101115.png",
-                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101305.png",
-                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101442.png",
-                "https://raw.githubusercontent.com/BryenDaco/APIs/refs/heads/portfolio/Screenshot%202026-05-29%20101531.png"
+                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20113356.jpeg",
+                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20113715.jpeg",
+                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20185350.jpeg",
+                "https://bryendaco.github.io/APIs/Screenshot%202025-12-10%20184620.jpeg"
             ]
         }
+        
     ]
 }
