@@ -261,6 +261,25 @@
             ]
         },
         {
+            "sku": "geekdrip_pos4stall",
+            "Title": "Geek Drip - POS for Stall",
+            "currentlyWorking": false,
+            "image": "https://bryendaco.github.io/APIs/geekdripLogo.png",
+            "bgImg": "https://bryendaco.github.io/APIs/geekdripPosCover.png",
+            "short_description": "I developed multiple Discord bots for Goldstone RP, including a custom welcome system with canvas-generated images, cleanly formatted information channels, and a full whitelisting interview system with approval and decline functionality.",
+            "long_description": "For Goldstone RP, I built a suite of Discord bots designed to enhance community onboarding and server management. The system includes a fully customized welcome bot that generates canvas-based welcome images for new players, giving the server a polished first impression. I also structured and automated multiple information channels with clean, well-formatted messages explaining game details, server rules, and essential guides to help players get started quickly. Additionally, I developed a complete whitelisting interview system that allows staff to review applications and respond with approve, decline, or other custom outcomes directly through automated bot actions for streamlining the entire player approval workflow and reducing manual workload for moderators.",
+            "skills": [ "pos", "whatsapp_automation" ],
+            "skill_tags": [ "automation", "coding", "autoWscript", "apidev", "fullyCustom", "dynamicUI", "apiTriggers" ],
+            "gallary": [
+                "https://bryendaco.github.io/APIs/geekdrip (1).png",
+                "https://bryendaco.github.io/APIs/geekdrip (2).png",
+                "https://bryendaco.github.io/APIs/geekdrip (3).png",
+                "https://bryendaco.github.io/APIs/geekdrip (4).png",
+                "https://bryendaco.github.io/APIs/geekdrip (5).png",
+                "https://bryendaco.github.io/APIs/geekdrip (6).png"
+            ]
+        },
+        {
             "sku": "gsc_discord",
             "Title": "Goldstone RP - Discord Bots",
             "currentlyWorking": false,
